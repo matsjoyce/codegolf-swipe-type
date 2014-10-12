@@ -1,7 +1,7 @@
 codegolf-swipe-type
 ===================
 
-For the (currently suggested) Swipt Type question at http://meta.codegolf.stackexchange.com/questions/2140/sandbox-for-proposed-challenges/
+For the Swipt Type Converter question at http://codegolf.stackexchange.com/questions/39741/swipe-type-converter
 
 To set up control for testing
 -----------------------------
@@ -13,7 +13,7 @@ To set up control for testing
    [Your name]
    runner=python your_code.py
    compiler=g++ --help
-   argv=True
+   argv=true
    ```
  - `compiler` and `argv` is optional (`argv` defaults to `false`)
  - Run `python3 control.py`
