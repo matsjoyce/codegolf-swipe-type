@@ -18,3 +18,8 @@ To set up control for testing
  - `compiler` and `argv` is optional (`argv` defaults to `false`)
  - Run `python3 control.py`
  - Your log file will be at `logs/Your name.log`
+
+Credits
+-------
+
+Word list from [SCOWL (And Friends)](http://wordlist.aspell.net/)
