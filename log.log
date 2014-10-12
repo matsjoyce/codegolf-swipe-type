@@ -1,0 +1,13 @@
+Starting testing...
+Timeout: 1
+Max 250 seconds (4:10 minutes) per program
+
+Processing: Regex Solver
+	Options: argv: true
+	Runner command: ruby entries/regex-solver.rb
+	Running... Done!
+	Took 16.633759260177612 seconds, 0.06653503704071045 per test
+
+Testing done!
+====================================================================================================
+Regex Solver:       Errors: 0/250       Fails: 220/250      Passes: 30/250      Timeouts: 0/250     
