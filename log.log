@@ -6,7 +6,7 @@ Processing: Regex Solver
 	Options: argv: true
 	Runner command: ruby entries/regex-solver.rb
 	Running... Done!
-	Took 16.633759260177612 seconds, 0.06653503704071045 per test
+	Took 16.952393293380737 seconds, 0.06780957317352294 per test
 
 Testing done!
 ====================================================================================================

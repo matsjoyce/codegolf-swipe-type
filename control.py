@@ -21,10 +21,6 @@ stats = {}
 test_data = [i.split() for i in open("testlist").read().split("\n") if i.strip()]
 
 
-def has_input(pipe, timeout=0.0):
-    return select.select([pipe], [], [], timeout)[0]
-
-
 def pad(s, l):
     return s + (l - len(s)) * " "
 
@@ -40,20 +36,16 @@ def compile(compiler, log):
     p = subprocess.Popen(compiler, shell=True,
                          stdin=subprocess.PIPE, stdout=subprocess.PIPE,
                          stderr=subprocess.PIPE)
-    for i in range(20):
-        time.sleep(1)
-        if p.poll() is not None:
-            break
     try:
+        stdout, stderr = p.communicate(timeout=20)
+    except subprocess.TimeoutExpired:
         p.kill()
-    except:
-        pass
-    if has_input(p.stdout):
+    if stdout:
         log.write("==> STDOUT\n")
-        log.write(p.stdout.read().decode("utf-8") + "\n")
-    if has_input(p.stderr):
+        log.write(stdout.decode("utf-8") + "\n")
+    if stderr:
         log.write("==> STDERR\n")
-        log.write(p.stderr.read().decode("utf-8") + "\n")
+        log.write(stderr.decode("utf-8") + "\n")
     if p.wait():
         log.write("==> Compiling failed\n")
         stats[name]["Errors"] += 1
@@ -65,34 +57,27 @@ def compile(compiler, log):
 
 def test_q(ques, ans, runner, options, log):
     log.write("==> Input: '{}', expecting '{}'\n".format(ques, ans))
-    if options.get("argv", fallback=False):
-        p = subprocess.Popen(runner + " " + ques, shell=True,
-                             stdin=subprocess.PIPE, stdout=subprocess.PIPE,
-                             stderr=subprocess.PIPE)
-    else:
-        p = subprocess.Popen(runner, shell=True,
-                             stdin=subprocess.PIPE, stdout=subprocess.PIPE,
-                             stderr=subprocess.PIPE)
-        p.stdin.write((ques + "\n").encode("utf-8"))
-        p.stdin.flush()
-
-    if has_input(p.stderr, timeout):
-        log.write("==> Stderr\n")
-        log.write(p.stderr.read().decode("utf-8") + "\n")
-
-    if has_input(p.stdout):
-        raw_data = p.stdout.read().decode("utf-8")
-        log.write("==> Stdout\n")
-        log.write(raw_data + "\n")
-        data = raw_data.strip().lower()
-    else:
+    inp = (ques + "\n").encode("utf-8") if not options.get("argv", fallback=False) else None
+    r = runner if not options.get("argv", fallback=False) else runner + " " + ques
+    p = subprocess.Popen(r, shell=True,
+                         stdin=subprocess.PIPE, stdout=subprocess.PIPE,
+                         stderr=subprocess.PIPE)
+    try:
+        stdout, stderr = p.communicate(input=inp, timeout=timeout)
+    except subprocess.TimeoutExpired:
+        p.kill()
         log.write("==> Timeout\n\n")
         return "Timeouts"
 
-    try:
-        p.kill()
-    except:
-        pass
+    if stderr:
+        log.write("==> Stderr\n")
+        log.write(stderr.decode("utf-8") + "\n")
+
+    if stdout:
+        raw_data = stdout.decode("utf-8")
+        log.write("==> Stdout\n")
+        log.write(raw_data + "\n")
+        data = raw_data.strip().lower()
 
     retcode = p.wait()
     log.write("==> Return code {}\n".format(retcode))
