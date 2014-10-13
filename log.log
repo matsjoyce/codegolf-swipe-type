@@ -6,8 +6,15 @@ Processing: Regex Solver
 	Options: argv: true
 	Runner command: ruby entries/regex-solver.rb
 	Running... Done!
-	Took 16.406524419784546 seconds, 0.06562609767913818 per test
+	Took 16.983240365982056 seconds, 0.06793296146392823 per test
+
+Processing: Direction Checker
+	Options: argv: true
+	Runner command: php entries/direction-checker.php
+	Running... Done!
+	Took 8.064208507537842 seconds, 0.032256834030151366 per test
 
 Testing done!
 ====================================================================================================
-Regex Solver:       Errors: 0/250       Fails: 110/250      Passes: 140/250     Timeouts: 0/250     
+Direction Checker:  Errors: 0/250       Fails: 37/250       Passes: 213/250     Timeouts: 0/250     
+Regex Solver:       Errors: 0/250       Fails: 70/250       Passes: 180/250     Timeouts: 0/250     
