@@ -154,7 +154,7 @@ covering
 ==> Return code 0
 ==> Pass
 
-==> Input: 'csasertyuiolkjhgred', expecting 'casseroled'
+==> Input: 'csassssssssertyuiolkjhtred', expecting 'casseroled'
 ==> Stdout
 casseroled
 ==> Return code 0
@@ -724,7 +724,7 @@ jolted
 ==> Return code 0
 ==> Fail
 
-==> Input: 'sdfghjiokjnbgfre', expecting 'shone'
+==> Input: 'sdfghjiojnbgfe', expecting 'shone'
 ==> Stdout
 shine
 ==> Return code 0
@@ -904,9 +904,9 @@ suffering
 ==> Return code 0
 ==> Fail
 
-==> Input: 'cvbjkloiuhgfcvhjkjhgfds', expecting 'cloaks'
+==> Input: 'cvbhjkloiuydsasxcvhjkjhgfds', expecting 'cloaks'
 ==> Stdout
-clucks
+classs
 ==> Return code 0
 ==> Fail
 
@@ -1122,9 +1122,9 @@ clashes
 
 ==> Input: 'sdfyuijnghjklkjhytres', expecting 'singles'
 ==> Stdout
-singless
+singles
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'asrtyuiuyfdsdrtyuiuhgcxsasdfghjklkuy', expecting 'artistically'
 ==> Stdout
@@ -1294,7 +1294,7 @@ adopted
 ==> Return code 0
 ==> Fail
 
-==> Input: 'liuytreres', expecting 'litters'
+==> Input: 'liuytrerds', expecting 'litters'
 ==> Stdout
 litters
 ==> Return code 0
@@ -1492,13 +1492,13 @@ wallows
 ==> Return code 0
 ==> Pass
 
-==> Input: 'ijnjuyfdsasrtre', expecting 'inundate'
+==> Input: 'ijnjujnbvfdsasdrtre', expecting 'inundate'
 ==> Stdout
-injure
+inundate
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Done!
-==> Errors: 0/250       Fails: 36/250       Passes: 214/250     Timeouts: 0/250     
-==> Took 9.117782831192017 seconds, 0.036471131324768064 per test
-==> Fails: {('trerthjkliuytrds', 'trellis'), ('ases', 'asses'), ('ijnjuyfdsasrtre', 'inundate'), ('wertyuijnbgfres', 'wines'), ('cvbjkloiuhgfcvhjkjhgfds', 'cloaks'), ('jiokjhgreres', 'jokers'), ('ijnjuytrerfgbnbvfdfghioiuytds', 'innuendos'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('sdfyuijnghjklkjhytres', 'singles'), ('mkiuytresasdfgfes', 'mirages'), ('asdtyuiuytrtjklijnbgfer', 'airliner'), ('bhuytred', 'butted'), ('edxcghjioploiuytdsdtyuiuhvfres', 'explosives'), ('sdfghjiokjnbgfre', 'shone'), ('bgresasdrtrds', 'brats'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('ytresawefgbnbvcds', 'yawns'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('asdfguiopoiuytred', 'aped'), ('tresazxcvbjkjhgred', 'tacked'), ('rerghmhgredfytrds', 'remedys'), ('dsasdfghnmnbfds', 'dams'), ('sdfguiopoiuytredftyuijng', 'speeding'), ('werthjikmngfds', 'whims'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('cvbnkloiuyfdses', 'closes'), ('tresaxdes', 'taxes'), ('cfrtyuiokjn', 'croon'), ('jiolkjuytred', 'jilted'), ('cxsasdrtyuijnhg', 'casting'), ('bjokmngfds', 'booms'), ('resasdbnmnbvfds', 'rams'), ('vcsasdtyuijnbgfresdt', 'vainest'), ('mjuytrdsertyujm', 'museum'), ('dedcfrtyuiuytres', 'decries'), ('bgresasdfyuiuytdses', 'braises')}
+==> Errors: 0/250       Fails: 34/250       Passes: 216/250     Timeouts: 0/250     
+==> Took 8.562635898590088 seconds, 0.034250543594360354 per test
+==> Fails: {('tresaxdes', 'taxes'), ('bjokmngfds', 'booms'), ('cfrtyuiokjn', 'croon'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('resasdbnmnbvfds', 'rams'), ('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('dsasdfghnmnbfds', 'dams'), ('cvbnkloiuyfdses', 'closes'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('sdfghjiojnbgfe', 'shone'), ('bgresasdfyuiuytdses', 'braises'), ('mkiuytresasdfgfes', 'mirages'), ('sdfguiopoiuytredftyuijng', 'speeding'), ('asdfguiopoiuytred', 'aped'), ('jiolkjuytred', 'jilted'), ('wertyuijnbgfres', 'wines'), ('rerghmhgredfytrds', 'remedys'), ('ytresawefgbnbvcds', 'yawns'), ('dedcfrtyuiuytres', 'decries'), ('ijnjuytrerfgbnbvfdfghioiuytds', 'innuendos'), ('asdtyuiuytrtjklijnbgfer', 'airliner'), ('mjuytrdsertyujm', 'museum'), ('trerthjkliuytrds', 'trellis'), ('bgresasdrtrds', 'brats'), ('vcsasdtyuijnbgfresdt', 'vainest'), ('cxsasdrtyuijnhg', 'casting'), ('edxcghjioploiuytdsdtyuiuhvfres', 'explosives'), ('werthjikmngfds', 'whims'), ('tresazxcvbjkjhgred', 'tacked'), ('jiokjhgreres', 'jokers'), ('ases', 'asses'), ('bhuytred', 'butted')}

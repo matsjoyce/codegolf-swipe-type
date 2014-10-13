@@ -180,7 +180,7 @@ covering
 ==> Return code 0
 ==> Pass
 
-==> Input: 'csasertyuiolkjhgred', expecting 'casseroled'
+==> Input: 'csassssssssertyuiolkjhtred', expecting 'casseroled'
 ==> Stdout
 casseroled
 
@@ -845,9 +845,9 @@ jutted
 ==> Return code 0
 ==> Fail
 
-==> Input: 'sdfghjiokjnbgfre', expecting 'shone'
+==> Input: 'sdfghjiojnbgfe', expecting 'shone'
 ==> Stdout
-shire
+singe
 
 ==> Return code 0
 ==> Fail
@@ -1055,9 +1055,9 @@ suffering
 ==> Return code 0
 ==> Fail
 
-==> Input: 'cvbjkloiuhgfcvhjkjhgfds', expecting 'cloaks'
+==> Input: 'cvbhjkloiuydsasxcvhjkjhgfds', expecting 'cloaks'
 ==> Stdout
-clucks
+clicks
 
 ==> Return code 0
 ==> Fail
@@ -1309,7 +1309,7 @@ clashes
 
 ==> Input: 'sdfyuijnghjklkjhytres', expecting 'singles'
 ==> Stdout
-singless
+stresss
 
 ==> Return code 0
 ==> Fail
@@ -1510,7 +1510,7 @@ aspired
 ==> Return code 0
 ==> Fail
 
-==> Input: 'liuytreres', expecting 'litters'
+==> Input: 'liuytrerds', expecting 'litters'
 ==> Stdout
 litters
 
@@ -1741,14 +1741,14 @@ waitresss
 ==> Return code 0
 ==> Fail
 
-==> Input: 'ijnjuyfdsasrtre', expecting 'inundate'
+==> Input: 'ijnjujnbvfdsasdrtre', expecting 'inundate'
 ==> Stdout
-injure
+inundate
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Done!
-==> Errors: 0/250       Fails: 69/250       Passes: 181/250     Timeouts: 0/250     
-==> Took 18.250824689865112 seconds, 0.07300329875946045 per test
-==> Fails: {('trerthjkliuytrds', 'trellis'), ('ases', 'asses'), ('lkjhgfdsasertytrds', 'lays'), ('ijnjuyfdsasrtre', 'inundate'), ('rerjklkjhgfdsasrty', 'relay'), ('mnbvcdsasertrds', 'marts'), ('wertyuijnbgfres', 'wines'), ('sdfghjkiopoiuytrer', 'skipper'), ('sdfghjkiopoiuytred', 'skipped'), ('fguiuytdsdfghgtrer', 'fisher'), ('cvbjkloiuhgfcvhjkjhgfds', 'cloaks'), ('jiokjhgreres', 'jokers'), ('ijnjuytrerfgbnbvfdfghioiuytds', 'innuendos'), ('erfghnmlploiuytrers', 'employers'), ('poiuytrewderes', 'powders'), ('bhuytrtyuioiuytrews', 'burrows'), ('wasdfghjkloiuytrews', 'wallows'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('fghjklkjhgfdsasdfghjopoiuytred', 'flapped'), ('asdvbnmklpoiuytresasdrtyuiokjn', 'amputation'), ('sdfghjklkjhgrertres', 'sleets'), ('sdfyuijnghjklkjhytres', 'singles'), ('mkiuytresasdfgfes', 'mirages'), ('sdtyuhgfdsaseres', 'sugars'), ('nbvfdsasdrtyuiopoijnbg', 'napping'), ('liokjn', 'lion'), ('cghuytrese', 'curse'), ('ghioiuytrgfde', 'gorge'), ('poiuytrdsasertrds', 'parts'), ('sdfghjiokjnbgfre', 'shone'), ('bgresasdrtrds', 'brats'), ('edxcghjioploiuytdsdtyuiuhvfres', 'explosives'), ('mkoihgvfred', 'moved'), ('plkjhgfdsasrtreres', 'plasters'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('asereewasrres', 'arrearss'), ('sdtyuikmlplkjhgfer', 'simpler'), ('asdfguiopoiuytred', 'aped'), ('tresazxcvbjkjhgred', 'tacked'), ('rerghmhgredfytrds', 'remedys'), ('dsasdfghnmnbfds', 'dams'), ('grtyuioiuytrewerthgfds', 'growths'), ('sdfghjkliuytrer', 'slitter'), ('dfgyuioiuytrewwedfgbnjiuytresdrt', 'downiest'), ('poiuytrtyuiuhgcded', 'priced'), ('bvcxzasdfgfes', 'badges'), ('sdfguiopoiuytredftyuijng', 'speeding'), ('bnklkjhgrewasxcvghuijng', 'bleaching'), ('werthjikmngfds', 'whims'), ('resasdrttyuioijnnbvcsasdfghjklkjhgres', 'rationales'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('cvbnkloiuyfdses', 'closes'), ('bhuytfdfgre', 'budge'), ('tresaxdes', 'taxes'), ('cxsasdrtyuijnhg', 'casting'), ('jiolkjuytred', 'jilted'), ('fghuioiuhg', 'fog'), ('bjokmngfds', 'booms'), ('resasdbnmnbvfds', 'rams'), ('poiuytdsdrtrsasdfghjkl', 'postal'), ('gfrertyjklkjhgfded', 'gelded'), ('asdfguiuytrghnmnhgred', 'affirmed'), ('asdfghjkopoiuytrewasdfgyuijng', 'appeasing'), ('oiuytrtyuiiuytrerfghnnhgtyuijng', 'orienting'), ('fguioiuytrtyuiuytres', 'forties'), ('hioiuytyuijng', 'hooting'), ('sdrtyuioiuytres', 'stores'), ('bgresasdfyuiuytdses', 'braises')}
+==> Errors: 0/250       Fails: 68/250       Passes: 182/250     Timeouts: 0/250     
+==> Took 18.701470851898193 seconds, 0.07480588340759277 per test
+==> Fails: {('asdfghjkopoiuytrewasdfgyuijng', 'appeasing'), ('tresaxdes', 'taxes'), ('poiuytrdsasertrds', 'parts'), ('sdfyuijnghjklkjhytres', 'singles'), ('bjokmngfds', 'booms'), ('rerjklkjhgfdsasrty', 'relay'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('sdrtyuioiuytres', 'stores'), ('asdvbnmklpoiuytresasdrtyuiokjn', 'amputation'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('hioiuytyuijng', 'hooting'), ('resasdbnmnbvfds', 'rams'), ('fghuioiuhg', 'fog'), ('oiuytrtyuiiuytrerfghnnhgtyuijng', 'orienting'), ('bvcxzasdfgfes', 'badges'), ('bhuytfdfgre', 'budge'), ('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('ghioiuytrgfde', 'gorge'), ('dsasdfghnmnbfds', 'dams'), ('sdtyuhgfdsaseres', 'sugars'), ('cvbnkloiuyfdses', 'closes'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('grtyuioiuytrewerthgfds', 'growths'), ('asereewasrres', 'arrearss'), ('sdfghjiojnbgfe', 'shone'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('bgresasdfyuiuytdses', 'braises'), ('gfrertyjklkjhgfded', 'gelded'), ('mkiuytresasdfgfes', 'mirages'), ('asdfguiuytrghnmnhgred', 'affirmed'), ('nbvfdsasdrtyuiopoijnbg', 'napping'), ('erfghnmlploiuytrers', 'employers'), ('sdfguiopoiuytredftyuijng', 'speeding'), ('fghjklkjhgfdsasdfghjopoiuytred', 'flapped'), ('mnbvcdsasertrds', 'marts'), ('resasdrttyuioijnnbvcsasdfghjklkjhgres', 'rationales'), ('asdfguiopoiuytred', 'aped'), ('sdfghjkliuytrer', 'slitter'), ('fguioiuytrtyuiuytres', 'forties'), ('jiolkjuytred', 'jilted'), ('bhuytrtyuioiuytrews', 'burrows'), ('mkoihgvfred', 'moved'), ('wertyuijnbgfres', 'wines'), ('rerghmhgredfytrds', 'remedys'), ('liokjn', 'lion'), ('lkjhgfdsasertytrds', 'lays'), ('fguiuytdsdfghgtrer', 'fisher'), ('sdfghjklkjhgrertres', 'sleets'), ('ijnjuytrerfgbnbvfdfghioiuytds', 'innuendos'), ('poiuytrtyuiuhgcded', 'priced'), ('cghuytrese', 'curse'), ('trerthjkliuytrds', 'trellis'), ('bgresasdrtrds', 'brats'), ('cxsasdrtyuijnhg', 'casting'), ('edxcghjioploiuytdsdtyuiuhvfres', 'explosives'), ('werthjikmngfds', 'whims'), ('bnklkjhgrewasxcvghuijng', 'bleaching'), ('poiuytdsdrtrsasdfghjkl', 'postal'), ('tresazxcvbjkjhgred', 'tacked'), ('dfgyuioiuytrewwedfgbnjiuytresdrt', 'downiest'), ('jiokjhgreres', 'jokers'), ('ases', 'asses'), ('plkjhgfdsasrtreres', 'plasters'), ('sdtyuikmlplkjhgfer', 'simpler'), ('wasdfghjkloiuytrews', 'wallows'), ('sdfghjkiopoiuytred', 'skipped'), ('poiuytrewderes', 'powders'), ('sdfghjkiopoiuytrer', 'skipper')}
