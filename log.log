@@ -6,13 +6,13 @@ Processing: Regex Solver
 	Options: argv: true
 	Runner command: ruby entries/regex-solver.rb
 	Running... Done!
-	Took 18.332072019577026 seconds, 0.0733282880783081 per test
+	Took 18.316668272018433 seconds, 0.07326667308807373 per test
 
 Processing: Direction Checker
 	Options: argv: true
 	Runner command: php entries/direction-checker.php
 	Running... Done!
-	Took 9.851270198822021 seconds, 0.03940508079528809 per test
+	Took 9.096122741699219 seconds, 0.03638449096679688 per test
 
 Processing: Discrete Fréchet Distance
 	Options: 
@@ -20,10 +20,10 @@ Processing: Discrete Fréchet Distance
 	Compiling... OK
 	Runner command: entries/discrete_fréchet_distance
 	Running... Done!
-	Took 12.777120113372803 seconds, 0.05110848045349121 per test
+	Took 5.335275650024414 seconds, 0.021341102600097656 per test
 
 Testing done!
 ====================================================================================================
+Discrete Fréchet Distance:Errors: 0/250       Fails: 30/250       Passes: 220/250     Timeouts: 0/250     
 Direction Checker:  Errors: 0/250       Fails: 36/250       Passes: 214/250     Timeouts: 0/250     
-Discrete Fréchet Distance:Errors: 0/250       Fails: 49/250       Passes: 201/250     Timeouts: 0/250     
 Regex Solver:       Errors: 0/250       Fails: 69/250       Passes: 181/250     Timeouts: 0/250     

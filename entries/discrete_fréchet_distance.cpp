@@ -8,7 +8,7 @@
 
 using namespace std;
 
-const double RESOLUTION = 0.5;
+const double RESOLUTION = 2.8;
 
 double dist(const pair<double, double>& a, const pair<double, double>& b) {
     return sqrt((a.first - b.first) * (a.first - b.first) + (a.second - b.second) * (a.second - b.second));
@@ -62,7 +62,7 @@ int main() {
     map<string, double> candidatedistance = map<string, double>();
     string readword;
     while (fin >> readword) {
-        if (issubsequence(readword, swipedword)) {
+        if (issubsequence(readword, swipedword) && readword[0] == swipedword[0] && readword[readword.size() - 1] == swipedword[swipedword.size() - 1]) {
             candidatedistance[readword] = -1.;
         }
     }
