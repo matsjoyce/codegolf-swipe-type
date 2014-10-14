@@ -1750,5 +1750,5 @@ inundate
 
 ==> Done!
 ==> Errors: 0/250       Fails: 15/250       Passes: 235/250     Timeouts: 0/250     
-==> Took 16.39610719680786 seconds, 0.06558442878723145 per test
-==> Fails: {('werthjikmngfds', 'whims'), ('cxsasdrtyuijnhg', 'casting'), ('poiuytrdsasertrds', 'parts'), ('asdfguiopoiuytred', 'aped'), ('mkiuytresasdfgfes', 'mirages'), ('bgresasdrtrds', 'brats'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('trerthjkliuytrds', 'trellis'), ('hjioiuyfdsdrtrds', 'hoists'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('tresazxcvbjkjhgred', 'tacked'), ('plkjhgfdsasrtreres', 'plasters'), ('bhuytred', 'butted'), ('mnbvcdsasertrds', 'marts'), ('sdfyuikmnbgfertyuijnbg', 'simmering')}
+==> Took 17.875917673110962 seconds, 0.07150367069244384 per test
+==> Fails: {('bhuytred', 'butted'), ('tresazxcvbjkjhgred', 'tacked'), ('hjioiuyfdsdrtrds', 'hoists'), ('cxsasdrtyuijnhg', 'casting'), ('asdfguiopoiuytred', 'aped'), ('bgresasdrtrds', 'brats'), ('mkiuytresasdfgfes', 'mirages'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('plkjhgfdsasrtreres', 'plasters'), ('trerthjkliuytrds', 'trellis'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('mnbvcdsasertrds', 'marts'), ('werthjikmngfds', 'whims'), ('poiuytrdsasertrds', 'parts')}
