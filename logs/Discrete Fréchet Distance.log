@@ -1753,5 +1753,5 @@ inundate
 
 ==> Done!
 ==> Errors: 0/250       Fails: 18/250       Passes: 232/250     Timeouts: 0/250     
-==> Took 9.640846252441406 seconds, 0.038563385009765624 per test
-==> Fails: {('sdfghjiojnbgfe', 'shone'), ('bjokmngfds', 'booms'), ('sdfyuiuytre', 'suite'), ('lkjhgfdsasertytrds', 'lays'), ('asereewasrres', 'arrearss'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('poiuygfer', 'puffer'), ('asdvbnmklpoiuytresasdrtyuiokjn', 'amputation'), ('bgresasdrtrds', 'brats'), ('fertyuytds', 'fetuss'), ('reedcghuiopoiuytrerfghnhgtres', 'recipients'), ('dfyuiuyty', 'ditty'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('sdftyuiuytyuijnhg', 'sitting'), ('trertresasdbnjuytds', 'tetanuss'), ('resasdbnmnbvfds', 'rams'), ('rerfgbnnnnnnnnnnnnnnbfdeeeeeeeeeeeeeeeeeeeeeeeeeeeszxcvbhjioiuytfds', 'rendezvouss'), ('refvbhuilkjhgfds', 'rebuilds')}
+==> Took 10.444689273834229 seconds, 0.04177875709533691 per test
+==> Fails: {('trertresasdbnjuytds', 'tetanuss'), ('sdfyuiuytre', 'suite'), ('sdfghjiojnbgfe', 'shone'), ('sdftyuiuytyuijnhg', 'sitting'), ('asdvbnmklpoiuytresasdrtyuiokjn', 'amputation'), ('bgresasdrtrds', 'brats'), ('lkjhgfdsasertytrds', 'lays'), ('resasdbnmnbvfds', 'rams'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('asereewasrres', 'arrearss'), ('rerfgbnnnnnnnnnnnnnnbfdeeeeeeeeeeeeeeeeeeeeeeeeeeeszxcvbhjioiuytfds', 'rendezvouss'), ('poiuygfer', 'puffer'), ('refvbhuilkjhgfds', 'rebuilds'), ('fertyuytds', 'fetuss'), ('bjokmngfds', 'booms'), ('dfyuiuyty', 'ditty'), ('reedcghuiopoiuytrerfghnhgtres', 'recipients')}
