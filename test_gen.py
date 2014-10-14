@@ -1,5 +1,6 @@
 import random
 import sys
+import re
 
 if len(sys.argv) > 1 and "add":
     mode = "a"
@@ -7,8 +8,8 @@ else:
     mode = "w"
 
 words = open("wordlist").read().split("\n")
-with open("testlist", mode) as tests:
-    for i in range(150):
+with open("testlist2", mode) as tests:
+    for i in range(100):
         word = random.choice(words)
         words.remove(word)
         swipe = input(word + ": ")

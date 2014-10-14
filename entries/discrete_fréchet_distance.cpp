@@ -8,7 +8,7 @@
 
 using namespace std;
 
-const double RESOLUTION = 2.8;
+const double RESOLUTION = 3.2;
 
 double dist(const pair<double, double>& a, const pair<double, double>& b) {
     return sqrt((a.first - b.first) * (a.first - b.first) + (a.second - b.second) * (a.second - b.second));
@@ -24,16 +24,16 @@ double helper(const vector<pair<double, double> >& a,
     else if (i == 0 && j == 0)
         dp[i][j] = dist(a[0], b[0]);
     else if (i > 0 && j == 0)
-        dp[i][j] = max(helper(a, b, dp, i - 1, 0),
-                dist(a[i], b[0]));
+        dp[i][j] = helper(a, b, dp, i - 1, 0) +
+                   dist(a[i], b[0]);
     else if (i == 0 && j > 0)
-        dp[i][j] = max(helper(a, b, dp, 0, j - 1),
-                dist(a[0], b[j]));
+        dp[i][j] = helper(a, b, dp, 0, j - 1) +
+                   dist(a[0], b[j]);
     else if (i > 0 && j > 0)
-        dp[i][j] = max(min(min(helper(a, b, dp, i - 1, j),
-                       helper(a, b, dp, i - 1, j - 1)),
-                   helper(a, b, dp, i, j - 1)),
-                   dist(a[i], b[j]));
+        dp[i][j] = min(min(helper(a, b, dp, i - 1, j),
+                           helper(a, b, dp, i - 1, j - 1)),
+                       helper(a, b, dp, i, j - 1)) +
+                   dist(a[i], b[j]);
     return dp[i][j];
 }
 
@@ -90,22 +90,25 @@ int main() {
             pair<double, double> linestart = keypositions[thisword[i]];
             pair<double, double> lineend = keypositions[thisword[i + 1]];
             double linelength = dist(linestart, lineend);
-            thispath.push_back(linestart);
+            if (thispath.empty() || linestart.first != thispath[thispath.size() - 1].first || linestart.second != thispath[thispath.size() - 1].second)
+                thispath.push_back(linestart);
             int segmentnumber = linelength / RESOLUTION;
             for (int j = 1; j < segmentnumber; ++j) {
                 thispath.push_back(pair<double, double>(linestart.first + (lineend.first - linestart.first) * ((double)j) / ((double)segmentnumber),
                                     linestart.second + (lineend.second - lineend.second) * ((double)j) / ((double)segmentnumber)));
             }
         }
-        thispath.push_back(keypositions[thisword[thisword.size() - 1]]);
+        pair<double, double> lastpoint = keypositions[thisword[thisword.size() - 1]];
+        if (thispath.empty() || lastpoint.first != thispath[thispath.size() - 1].first || lastpoint.second != thispath[thispath.size() - 1].second)
+        thispath.push_back(lastpoint);
 
-        thispair->second = discretefrechet(thispath, swipedpath);
+        thispair->second = discretefrechet(thispath, swipedpath) / (double)(thispath.size());
     }
 
     double bestscore = 1e9;
     string bestword = "";
     for (map<string, double>::iterator thispair = candidatedistance.begin(); thispair != candidatedistance.end(); ++thispair) {
-        double score = thispair->second / (double)(thispair->first).size();
+        double score = thispair->second;
         if (score < bestscore) {
             bestscore = score;
             bestword = thispair->first;
