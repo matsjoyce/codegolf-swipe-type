@@ -1029,10 +1029,10 @@ dazzle
 
 ==> Input: 'sdfghjkiopoiuytred', expecting 'skipped'
 ==> Stdout
-shopped
+skipped
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'fghjklkjhgfdsasdfghjopoiuytred', expecting 'flapped'
 ==> Stdout
@@ -1379,10 +1379,10 @@ whiffs
 
 ==> Input: 'sdfguiopoiuytredftyuijng', expecting 'speeding'
 ==> Stdout
-supporting
+speeding
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'wertyuijnbgfres', expecting 'wines'
 ==> Stdout
@@ -1428,10 +1428,10 @@ languages
 
 ==> Input: 'sdfghjkiopoiuytrer', expecting 'skipper'
 ==> Stdout
-shopper
+skipper
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'bvcdsaserfgbgfdedcghuytred', expecting 'barbecued'
 ==> Stdout
@@ -1736,10 +1736,10 @@ sugars
 
 ==> Input: 'wasdfghjkloiuytrews', expecting 'wallows'
 ==> Stdout
-waitresss
+wallows
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'ijnjujnbvfdsasdrtre', expecting 'inundate'
 ==> Stdout
@@ -1749,6 +1749,6 @@ inundate
 ==> Pass
 
 ==> Done!
-==> Errors: 0/250       Fails: 24/250       Passes: 226/250     Timeouts: 0/250     
-==> Took 17.697038888931274 seconds, 0.0707881555557251 per test
-==> Fails: {('wertyuijnbgfres', 'wines'), ('sdfghjkiopoiuytrer', 'skipper'), ('sdfghjkiopoiuytred', 'skipped'), ('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('trerthjkliuytrds', 'trellis'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('werthjikmngfds', 'whims'), ('bjokmngfds', 'booms'), ('dsasdfghnmnbfds', 'dams'), ('bgresasdrtrds', 'brats'), ('mkiuytresasdfgfes', 'mirages'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('ases', 'asses'), ('wasdfghjkloiuytrews', 'wallows'), ('asdfguiopoiuytred', 'aped'), ('resasdbnmnbvfds', 'rams'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('jiokjhgreres', 'jokers'), ('tresazxcvbjkjhgred', 'tacked'), ('sdfguiopoiuytredftyuijng', 'speeding'), ('dfgyuioiuytrewwedfgbnjiuytresdrt', 'downiest'), ('cxsasdrtyuijnhg', 'casting'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('bhuytred', 'butted')}
+==> Errors: 0/250       Fails: 20/250       Passes: 230/250     Timeouts: 0/250     
+==> Took 13.774258613586426 seconds, 0.0550970344543457 per test
+==> Fails: {('bgresasdrtrds', 'brats'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('bjokmngfds', 'booms'), ('ases', 'asses'), ('bhuytred', 'butted'), ('asdfguiopoiuytred', 'aped'), ('cxsasdrtyuijnhg', 'casting'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('tresazxcvbjkjhgred', 'tacked'), ('dfgyuioiuytrewwedfgbnjiuytresdrt', 'downiest'), ('resasdbnmnbvfds', 'rams'), ('trerthjkliuytrds', 'trellis'), ('wertyuijnbgfres', 'wines'), ('dsasdfghnmnbfds', 'dams'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('jiokjhgreres', 'jokers'), ('mkiuytresasdfgfes', 'mirages'), ('werthjikmngfds', 'whims')}

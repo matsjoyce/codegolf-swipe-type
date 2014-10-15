@@ -742,10 +742,10 @@ music
 
 ==> Input: 'mkiuytresasdfgfes', expecting 'mirages'
 ==> Stdout
-messages
+mirages
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'sdfghjkliuytrer', expecting 'slitter'
 ==> Stdout
@@ -805,10 +805,10 @@ arrearss
 
 ==> Input: 'bhuytred', expecting 'butted'
 ==> Stdout
-burred
+butted
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'bgfresdrtred', expecting 'bested'
 ==> Stdout
@@ -924,17 +924,17 @@ emerged
 
 ==> Input: 'sdftyuikmjuuilkjhgfdsasdrtyuijnbg', expecting 'simulating'
 ==> Stdout
-stimulating
+simulating
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'poiuytrdsasertrds', expecting 'parts'
 ==> Stdout
-pats
+parts
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'vhuijnbgferfgfdsaser', expecting 'vinegar'
 ==> Stdout
@@ -1393,10 +1393,10 @@ wines
 
 ==> Input: 'mnbvcdsasertrds', expecting 'marts'
 ==> Stdout
-mats
+marts
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'kjnbvfdsasxcvhjkjhgfrer', expecting 'knacker'
 ==> Stdout
@@ -1638,10 +1638,10 @@ overran
 
 ==> Input: 'cxsasdrtyuijnhg', expecting 'casting'
 ==> Stdout
-carrying
+casting
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'sdrttttyuytreres', expecting 'stutters'
 ==> Stdout
@@ -1749,6 +1749,6 @@ inundate
 ==> Pass
 
 ==> Done!
-==> Errors: 0/250       Fails: 15/250       Passes: 235/250     Timeouts: 0/250     
-==> Took 17.875917673110962 seconds, 0.07150367069244384 per test
-==> Fails: {('bhuytred', 'butted'), ('tresazxcvbjkjhgred', 'tacked'), ('hjioiuyfdsdrtrds', 'hoists'), ('cxsasdrtyuijnhg', 'casting'), ('asdfguiopoiuytred', 'aped'), ('bgresasdrtrds', 'brats'), ('mkiuytresasdfgfes', 'mirages'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('plkjhgfdsasrtreres', 'plasters'), ('trerthjkliuytrds', 'trellis'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('mnbvcdsasertrds', 'marts'), ('werthjikmngfds', 'whims'), ('poiuytrdsasertrds', 'parts')}
+==> Errors: 0/250       Fails: 9/250        Passes: 241/250     Timeouts: 0/250     
+==> Took 18.48853874206543 seconds, 0.07395415496826171 per test
+==> Fails: {('bgresasdrtrds', 'brats'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('asdfguiopoiuytred', 'aped'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('tresazxcvbjkjhgred', 'tacked'), ('plkjhgfdsasrtreres', 'plasters'), ('trerthjkliuytrds', 'trellis'), ('hjioiuyfdsdrtrds', 'hoists'), ('werthjikmngfds', 'whims')}

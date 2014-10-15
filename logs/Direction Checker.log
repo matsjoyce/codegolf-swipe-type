@@ -30,9 +30,9 @@ engines
 
 ==> Input: 'rerghmhgredfytrds', expecting 'remedys'
 ==> Stdout
-regresss
+remedys
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'cghiokmngfrefgbnbvfdfyuijnbg', expecting 'commending'
 ==> Stdout
@@ -84,9 +84,9 @@ gnats
 
 ==> Input: 'tresaxdes', expecting 'taxes'
 ==> Stdout
-trades
+taxes
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'mnbfdsasdtyuiolkjnbjoiugfcx', expecting 'mailbox'
 ==> Stdout
@@ -216,9 +216,9 @@ insanest
 
 ==> Input: 'ijnjuytrerfgbnbvfdfghioiuytds', expecting 'innuendos'
 ==> Stdout
-injurious
+innuendos
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'poillkjhgrtyuikmnbfds', expecting 'pilgrims'
 ==> Stdout
@@ -240,9 +240,9 @@ sincere
 
 ==> Input: 'ytresawefgbnbvcds', expecting 'yawns'
 ==> Stdout
-yessed
+yawns
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'ijnbvddftyuytdsdrtrtyuiuytresasdfghjkl', expecting 'industrial'
 ==> Stdout
@@ -282,9 +282,9 @@ relay
 
 ==> Input: 'bgresasdfyuiuytdses', expecting 'braises'
 ==> Stdout
-besides
+braises
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'sdrtyhnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnbvdrtyuiokmnhgres', expecting 'syndromes'
 ==> Stdout
@@ -294,9 +294,9 @@ syndromes
 
 ==> Input: 'rtyuioiujnbfded', expecting 'rounded'
 ==> Stdout
-rounded
+robbed
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'hioiuytyuijng', expecting 'hooting'
 ==> Stdout
@@ -318,9 +318,9 @@ priced
 
 ==> Input: 'vcsasdtyuijnbgfresdt', expecting 'vainest'
 ==> Stdout
-vastnesss
+vainest
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'ujnbvcgyuilkuytyuytred', expecting 'uncultured'
 ==> Stdout
@@ -588,9 +588,9 @@ screwdriver
 
 ==> Input: 'asdtyuiuytrtjklijnbgfer', expecting 'airliner'
 ==> Stdout
-assuring
+airliner
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'hjioloiugcxasrtyuytdsdrtrds', expecting 'holocausts'
 ==> Stdout
@@ -600,9 +600,9 @@ holocausts
 
 ==> Input: 'cvbnkloiuyfdses', expecting 'closes'
 ==> Stdout
-coffees
+closes
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'sdccccccccvhjiollkjbhjioiuytrds', expecting 'schoolboys'
 ==> Stdout
@@ -636,9 +636,9 @@ music
 
 ==> Input: 'mkiuytresasdfgfes', expecting 'mirages'
 ==> Stdout
-messages
+mirages
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'sdfghjkliuytrer', expecting 'slitter'
 ==> Stdout
@@ -726,9 +726,9 @@ jolted
 
 ==> Input: 'sdfghjiojnbgfe', expecting 'shone'
 ==> Stdout
-shine
+shone
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'ijnjiuytyuiuytdsasdfghjklkjhgfds', expecting 'initials'
 ==> Stdout
@@ -882,9 +882,9 @@ dazzle
 
 ==> Input: 'sdfghjkiopoiuytred', expecting 'skipped'
 ==> Stdout
-skipped
+shopped
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'fghjklkjhgfdsasdfghjopoiuytred', expecting 'flapped'
 ==> Stdout
@@ -900,9 +900,9 @@ loincloth
 
 ==> Input: 'sdfyuikmnbgfertyuijnbg', expecting 'simmering'
 ==> Stdout
-suffering
+simmering
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'cvbhjkloiuydsasxcvhjkjhgfds', expecting 'cloaks'
 ==> Stdout
@@ -1002,9 +1002,9 @@ sociological
 
 ==> Input: 'mjuytrdsertyujm', expecting 'museum'
 ==> Stdout
-murder
+museum
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'bhuytfdfgre', expecting 'budge'
 ==> Stdout
@@ -1062,15 +1062,15 @@ get
 
 ==> Input: 'liokjn', expecting 'lion'
 ==> Stdout
-lion
+look
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'edxcghjioploiuytdsdtyuiuhvfres', expecting 'explosives'
 ==> Stdout
-exclusives
+explosives
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'erfgnmmmmlpploiuyjmjhgrerfgbnhgt', expecting 'employment'
 ==> Stdout
@@ -1098,9 +1098,9 @@ moved
 
 ==> Input: 'dedcfrtyuiuytres', expecting 'decries'
 ==> Stdout
-decrees
+decries
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'asdfghjiooooooooiuytrtghjmnhgfrefgbnhtrds', expecting 'assortments'
 ==> Stdout
@@ -1110,9 +1110,9 @@ assortments
 
 ==> Input: 'cfrtyuiokjn', expecting 'croon'
 ==> Stdout
-crook
+croon
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'cvbhjklkjhgfdsasdfghgres', expecting 'clashs'
 ==> Stdout
@@ -1176,21 +1176,21 @@ rejoiced
 
 ==> Input: 'werthjikmngfds', expecting 'whims'
 ==> Stdout
-wetting
+whims
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'sdfguiopoiuytredftyuijng', expecting 'speeding'
 ==> Stdout
-supporting
+speeding
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'wertyuijnbgfres', expecting 'wines'
 ==> Stdout
-wetting
+wines
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'mnbvcdsasertrds', expecting 'marts'
 ==> Stdout
@@ -1224,9 +1224,9 @@ languages
 
 ==> Input: 'sdfghjkiopoiuytrer', expecting 'skipper'
 ==> Stdout
-skipper
+shopper
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'bvcdsaserfgbgfdedcghuytred', expecting 'barbecued'
 ==> Stdout
@@ -1488,9 +1488,9 @@ sugars
 
 ==> Input: 'wasdfghjkloiuytrews', expecting 'wallows'
 ==> Stdout
-wallows
+washouts
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'ijnjujnbvfdsasdrtre', expecting 'inundate'
 ==> Stdout
@@ -1499,6 +1499,6 @@ inundate
 ==> Pass
 
 ==> Done!
-==> Errors: 0/250       Fails: 34/250       Passes: 216/250     Timeouts: 0/250     
-==> Took 20.791444778442383 seconds, 0.08316577911376953 per test
-==> Fails: {('edxcghjioploiuytdsdtyuiuhvfres', 'explosives'), ('wertyuijnbgfres', 'wines'), ('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('trerthjkliuytrds', 'trellis'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('asdtyuiuytrtjklijnbgfer', 'airliner'), ('rerghmhgredfytrds', 'remedys'), ('werthjikmngfds', 'whims'), ('bjokmngfds', 'booms'), ('dsasdfghnmnbfds', 'dams'), ('cvbnkloiuyfdses', 'closes'), ('bgresasdrtrds', 'brats'), ('mkiuytresasdfgfes', 'mirages'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('mjuytrdsertyujm', 'museum'), ('tresaxdes', 'taxes'), ('ases', 'asses'), ('bgresasdfyuiuytdses', 'braises'), ('asdfguiopoiuytred', 'aped'), ('ijnjuytrerfgbnbvfdfghioiuytds', 'innuendos'), ('resasdbnmnbvfds', 'rams'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('jiolkjuytred', 'jilted'), ('cfrtyuiokjn', 'croon'), ('sdfghjiojnbgfe', 'shone'), ('jiokjhgreres', 'jokers'), ('tresazxcvbjkjhgred', 'tacked'), ('sdfguiopoiuytredftyuijng', 'speeding'), ('cxsasdrtyuijnhg', 'casting'), ('vcsasdtyuijnbgfresdt', 'vainest'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('dedcfrtyuiuytres', 'decries'), ('ytresawefgbnbvcds', 'yawns'), ('bhuytred', 'butted')}
+==> Errors: 0/250       Fails: 21/250       Passes: 229/250     Timeouts: 0/250     
+==> Took 17.295937299728394 seconds, 0.06918374919891357 per test
+==> Fails: {('bgresasdrtrds', 'brats'), ('sdfghjkiopoiuytrer', 'skipper'), ('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('bjokmngfds', 'booms'), ('ases', 'asses'), ('bhuytred', 'butted'), ('asdfguiopoiuytred', 'aped'), ('cxsasdrtyuijnhg', 'casting'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('jiolkjuytred', 'jilted'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('rtyuioiujnbfded', 'rounded'), ('tresazxcvbjkjhgred', 'tacked'), ('sdfghjkiopoiuytred', 'skipped'), ('resasdbnmnbvfds', 'rams'), ('wasdfghjkloiuytrews', 'wallows'), ('liokjn', 'lion'), ('trerthjkliuytrds', 'trellis'), ('dsasdfghnmnbfds', 'dams'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('jiokjhgreres', 'jokers')}

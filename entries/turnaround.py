@@ -3,8 +3,8 @@ import sys, csv, re
 wordlistfile = open('wordlist', 'r')
 wordlist = wordlistfile.read().split('\n')
 
-keyposfile = open('keypos.csv', 'r')
-keypos = dict((l, (float(x), float(y))) for l,x,y in csv.reader(keyposfile))
+layout = 'qwertyuiop asdfghjkl  zxcvbnm'
+keypos = dict((l, (2*(i%11)+i/11, i/11)) for i,l in enumerate(layout))
 
 #read input from command line argument
 input = sys.argv[1]
@@ -17,7 +17,7 @@ xpos = map(lambda l: keypos[l][0], input)
 ypos = map(lambda l: keypos[l][1], input)
 
 #check where the direction changes (neglect slight changes in x, e.g. 'edx')
-xpivot = [(t-p)*(n-t)<-1.5 for p,t,n in zip(xpos[:-2], xpos[1:-1], xpos[2:])]
+xpivot = [(t-p)*(n-t)<-1.1 for p,t,n in zip(xpos[:-2], xpos[1:-1], xpos[2:])]
 ypivot = [(t-p)*(n-t)<0 for p,t,n in zip(ypos[:-2], ypos[1:-1], ypos[2:])]
 pivot = [xp or yp for xp,yp in zip(xpivot, ypivot)]
 
