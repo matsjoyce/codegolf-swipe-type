@@ -9,7 +9,7 @@ else:
 
 words = open("wordlist").read().split("\n")
 with open("testlist2", mode) as tests:
-    for i in range(100):
+    for i in range(150):
         word = random.choice(words)
         words.remove(word)
         swipe = input(word + ": ")

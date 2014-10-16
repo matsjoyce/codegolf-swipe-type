@@ -4,12 +4,13 @@ import time
 import select
 import configparser
 import time
+import sys
 
 timeout = 1
 
 log = open("log.log", "w")
 try:
-    os.mkdir("logs")
+    os.mkdir("logs-" + sys.argv[1])
 except:
     pass
 programs = []
@@ -18,7 +19,7 @@ programs = configparser.ConfigParser(interpolation=configparser.ExtendedInterpol
 programs.read("entrylist.ini")
 
 stats = {}
-test_data = [i.split() for i in open("testlist").read().split("\n") if i.strip()]
+test_data = [i.split() for i in open(sys.argv[1]).read().split("\n") if i.strip()]
 
 
 def pad(s, l):
@@ -102,7 +103,7 @@ for name, info in programs.items():
     if not name:
         continue
     print()
-    with open("logs/{}.log".format(name), "w") as nlog:
+    with open("logs-" + sys.argv[1] + "/{}.log".format(name), "w") as nlog:
         print("Processing:", name)
         print("\tOptions:", ", ".join("{}: {}".format(i, j) for i, j in info.items() if i not in ("runner", "compiler")))
 

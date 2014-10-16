@@ -6,13 +6,13 @@ Processing: Regex Solver
 	Options: argv: true
 	Runner command: ruby entries/regex-solver.rb
 	Running... Done!
-	Took 39.59750461578369 seconds, 0.15839001846313477 per test
+	Took 47.40761876106262 seconds, 0.18963047504425048 per test
 
 Processing: Direction Checker
 	Options: argv: true
 	Runner command: php entries/direction-checker.php
 	Running... Done!
-	Took 17.295937299728394 seconds, 0.06918374919891357 per test
+	Took 21.811467170715332 seconds, 0.08724586868286133 per test
 
 Processing: Discrete Fréchet Distance
 	Options: 
@@ -20,24 +20,24 @@ Processing: Discrete Fréchet Distance
 	Compiling... OK
 	Runner command: entries/discrete_fréchet_distance
 	Running... Done!
-	Took 10.64174771308899 seconds, 0.042566990852355956 per test
+	Took 11.908220529556274 seconds, 0.0476328821182251 per test
 
 Processing: Turnaround
 	Options: argv: true
 	Runner command: python2 entries/turnaround.py
 	Running... Done!
-	Took 13.774258613586426 seconds, 0.0550970344543457 per test
+	Took 19.782484769821167 seconds, 0.07912993907928467 per test
 
 Processing: Three Pass Optimizer
 	Options: 
 	Runner command: ./jsshell-linux-x86_64/js entries/three_pass_optimizer.js
 	Running... Done!
-	Took 18.48853874206543 seconds, 0.07395415496826171 per test
+	Took 25.31016707420349 seconds, 0.10124066829681397 per test
 
 Testing done!
 ====================================================================================================
-Three Pass Optimizer:Errors: 0/250       Fails: 9/250        Passes: 241/250     Timeouts: 0/250     
 Discrete Fréchet Distance:Errors: 0/250       Fails: 18/250       Passes: 232/250     Timeouts: 0/250     
+Three Pass Optimizer:Errors: 2/250       Fails: 17/250       Passes: 231/250     Timeouts: 0/250     
 Turnaround:         Errors: 0/250       Fails: 20/250       Passes: 230/250     Timeouts: 0/250     
 Direction Checker:  Errors: 0/250       Fails: 21/250       Passes: 229/250     Timeouts: 0/250     
-Regex Solver:       Errors: 0/250       Fails: 68/250       Passes: 182/250     Timeouts: 0/250     
+Regex Solver:       Errors: 0/250       Fails: 71/250       Passes: 179/250     Timeouts: 0/250     
