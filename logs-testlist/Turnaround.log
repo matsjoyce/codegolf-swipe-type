@@ -980,10 +980,10 @@ ditty
 
 ==> Input: 'trerthjkliuytrds', expecting 'trellis'
 ==> Stdout
-trelliss
+trellis
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'dfguioooknbvdsasrtyuiokjn', expecting 'donation'
 ==> Stdout
@@ -1300,12 +1300,12 @@ croon
 ==> Return code 0
 ==> Pass
 
-==> Input: 'cvbhjklkjhgfdsasdfghgres', expecting 'clashs'
+==> Input: 'cvbhjklkjhgfdsasdfghgfds', expecting 'clashs'
 ==> Stdout
-clashes
+clashs
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'sdfyuijnghjklkjhytres', expecting 'singles'
 ==> Stdout
@@ -1749,6 +1749,6 @@ inundate
 ==> Pass
 
 ==> Done!
-==> Errors: 0/250       Fails: 20/250       Passes: 230/250     Timeouts: 0/250     
-==> Took 13.774258613586426 seconds, 0.0550970344543457 per test
-==> Fails: {('bgresasdrtrds', 'brats'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('bjokmngfds', 'booms'), ('ases', 'asses'), ('bhuytred', 'butted'), ('asdfguiopoiuytred', 'aped'), ('cxsasdrtyuijnhg', 'casting'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('tresazxcvbjkjhgred', 'tacked'), ('dfgyuioiuytrewwedfgbnjiuytresdrt', 'downiest'), ('resasdbnmnbvfds', 'rams'), ('trerthjkliuytrds', 'trellis'), ('wertyuijnbgfres', 'wines'), ('dsasdfghnmnbfds', 'dams'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('jiokjhgreres', 'jokers'), ('mkiuytresasdfgfes', 'mirages'), ('werthjikmngfds', 'whims')}
+==> Errors: 0/250       Fails: 18/250       Passes: 232/250     Timeouts: 0/250     
+==> Took 18.4939124584198 seconds, 0.0739756498336792 per test
+==> Fails: {('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('wertyuijnbgfres', 'wines'), ('mkiuytresasdfgfes', 'mirages'), ('dfgyuioiuytrewwedfgbnjiuytresdrt', 'downiest'), ('cxsasdrtyuijnhg', 'casting'), ('ases', 'asses'), ('bhuytred', 'butted'), ('bgresasdrtrds', 'brats'), ('dsasdfghnmnbfds', 'dams'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('werthjikmngfds', 'whims'), ('resasdbnmnbvfds', 'rams'), ('tresazxcvbjkjhgred', 'tacked'), ('jiokjhgreres', 'jokers'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('bjokmngfds', 'booms'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('asdfguiopoiuytred', 'aped')}

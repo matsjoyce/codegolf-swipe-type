@@ -1303,12 +1303,12 @@ croon
 ==> Return code 0
 ==> Pass
 
-==> Input: 'cvbhjklkjhgfdsasdfghgres', expecting 'clashs'
+==> Input: 'cvbhjklkjhgfdsasdfghgfds', expecting 'clashs'
 ==> Stdout
-clashes
+clashs
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'sdfyuijnghjklkjhytres', expecting 'singles'
 ==> Stdout
@@ -1752,6 +1752,6 @@ inundate
 ==> Pass
 
 ==> Done!
-==> Errors: 0/250       Fails: 18/250       Passes: 232/250     Timeouts: 0/250     
-==> Took 10.64174771308899 seconds, 0.042566990852355956 per test
-==> Fails: {('bgresasdrtrds', 'brats'), ('refvbhuilkjhgfds', 'rebuilds'), ('sdftyuiuytyuijnhg', 'sitting'), ('bjokmngfds', 'booms'), ('asdvbnmklpoiuytresasdrtyuiokjn', 'amputation'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('lkjhgfdsasertytrds', 'lays'), ('sdfghjiojnbgfe', 'shone'), ('rerfgbnnnnnnnnnnnnnnbfdeeeeeeeeeeeeeeeeeeeeeeeeeeeszxcvbhjioiuytfds', 'rendezvouss'), ('dfyuiuyty', 'ditty'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('asereewasrres', 'arrearss'), ('reedcghuiopoiuytrerfghnhgtres', 'recipients'), ('poiuygfer', 'puffer'), ('resasdbnmnbvfds', 'rams'), ('fertyuytds', 'fetuss'), ('trertresasdbnjuytds', 'tetanuss'), ('sdfyuiuytre', 'suite')}
+==> Errors: 0/250       Fails: 17/250       Passes: 233/250     Timeouts: 0/250     
+==> Took 11.959449768066406 seconds, 0.047837799072265624 per test
+==> Fails: {('sdfyuiuytre', 'suite'), ('sdfghjiojnbgfe', 'shone'), ('dfyuiuyty', 'ditty'), ('refvbhuilkjhgfds', 'rebuilds'), ('fertyuytds', 'fetuss'), ('asdvbnmklpoiuytresasdrtyuiokjn', 'amputation'), ('bgresasdrtrds', 'brats'), ('reedcghuiopoiuytrerfghnhgtres', 'recipients'), ('rerfgbnnnnnnnnnnnnnnbfdeeeeeeeeeeeeeeeeeeeeeeeeeeeszxcvbhjioiuytfds', 'rendezvouss'), ('asereewasrres', 'arrearss'), ('resasdbnmnbvfds', 'rams'), ('trertresasdbnjuytds', 'tetanuss'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('sdftyuiuytyuijnhg', 'sitting'), ('bjokmngfds', 'booms'), ('lkjhgfdsasertytrds', 'lays'), ('poiuygfer', 'puffer')}

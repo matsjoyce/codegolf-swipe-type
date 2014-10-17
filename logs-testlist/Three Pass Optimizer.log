@@ -980,10 +980,10 @@ ditty
 
 ==> Input: 'trerthjkliuytrds', expecting 'trellis'
 ==> Stdout
-trelliss
+trellis
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'dfguioooknbvdsasrtyuiokjn', expecting 'donation'
 ==> Stdout
@@ -1300,12 +1300,12 @@ croon
 ==> Return code 0
 ==> Pass
 
-==> Input: 'cvbhjklkjhgfdsasdfghgres', expecting 'clashs'
+==> Input: 'cvbhjklkjhgfdsasdfghgfds', expecting 'clashs'
 ==> Stdout
-clashes
+clashs
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'sdfyuijnghjklkjhytres', expecting 'singles'
 ==> Stdout
@@ -1749,6 +1749,6 @@ inundate
 ==> Pass
 
 ==> Done!
-==> Errors: 0/250       Fails: 9/250        Passes: 241/250     Timeouts: 0/250     
-==> Took 18.48853874206543 seconds, 0.07395415496826171 per test
-==> Fails: {('bgresasdrtrds', 'brats'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('asdfguiopoiuytred', 'aped'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('tresazxcvbjkjhgred', 'tacked'), ('plkjhgfdsasrtreres', 'plasters'), ('trerthjkliuytrds', 'trellis'), ('hjioiuyfdsdrtrds', 'hoists'), ('werthjikmngfds', 'whims')}
+==> Errors: 0/250       Fails: 7/250        Passes: 243/250     Timeouts: 0/250     
+==> Took 22.550347328186035 seconds, 0.09020138931274414 per test
+==> Fails: {('bgresasdrtrds', 'brats'), ('hjioiuyfdsdrtrds', 'hoists'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('werthjikmngfds', 'whims'), ('tresazxcvbjkjhgred', 'tacked'), ('plkjhgfdsasrtreres', 'plasters'), ('asdfguiopoiuytred', 'aped')}

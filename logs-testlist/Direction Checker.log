@@ -840,9 +840,9 @@ ditty
 
 ==> Input: 'trerthjkliuytrds', expecting 'trellis'
 ==> Stdout
-trelliss
+trellis
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'dfguioooknbvdsasrtyuiokjn', expecting 'donation'
 ==> Stdout
@@ -906,7 +906,7 @@ simmering
 
 ==> Input: 'cvbhjkloiuydsasxcvhjkjhgfds', expecting 'cloaks'
 ==> Stdout
-classs
+chucks
 ==> Return code 0
 ==> Fail
 
@@ -1114,11 +1114,11 @@ croon
 ==> Return code 0
 ==> Pass
 
-==> Input: 'cvbhjklkjhgfdsasdfghgres', expecting 'clashs'
+==> Input: 'cvbhjklkjhgfdsasdfghgfds', expecting 'clashs'
 ==> Stdout
-clashes
+clashs
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'sdfyuijnghjklkjhytres', expecting 'singles'
 ==> Stdout
@@ -1499,6 +1499,6 @@ inundate
 ==> Pass
 
 ==> Done!
-==> Errors: 0/250       Fails: 21/250       Passes: 229/250     Timeouts: 0/250     
-==> Took 17.295937299728394 seconds, 0.06918374919891357 per test
-==> Fails: {('bgresasdrtrds', 'brats'), ('sdfghjkiopoiuytrer', 'skipper'), ('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('bjokmngfds', 'booms'), ('ases', 'asses'), ('bhuytred', 'butted'), ('asdfguiopoiuytred', 'aped'), ('cxsasdrtyuijnhg', 'casting'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('jiolkjuytred', 'jilted'), ('cvbhjklkjhgfdsasdfghgres', 'clashs'), ('rtyuioiujnbfded', 'rounded'), ('tresazxcvbjkjhgred', 'tacked'), ('sdfghjkiopoiuytred', 'skipped'), ('resasdbnmnbvfds', 'rams'), ('wasdfghjkloiuytrews', 'wallows'), ('liokjn', 'lion'), ('trerthjkliuytrds', 'trellis'), ('dsasdfghnmnbfds', 'dams'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('jiokjhgreres', 'jokers')}
+==> Errors: 0/250       Fails: 19/250       Passes: 231/250     Timeouts: 0/250     
+==> Took 22.024078607559204 seconds, 0.08809631443023681 per test
+==> Fails: {('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('wasdfghjkloiuytrews', 'wallows'), ('cxsasdrtyuijnhg', 'casting'), ('ases', 'asses'), ('bhuytred', 'butted'), ('bgresasdrtrds', 'brats'), ('dsasdfghnmnbfds', 'dams'), ('tresazxcvbjkjhgred', 'tacked'), ('liokjn', 'lion'), ('sdfghjkiopoiuytred', 'skipped'), ('jiolkjuytred', 'jilted'), ('sdfghjkiopoiuytrer', 'skipper'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('resasdbnmnbvfds', 'rams'), ('bjokmngfds', 'booms'), ('jiokjhgreres', 'jokers'), ('rtyuioiujnbfded', 'rounded'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('asdfguiopoiuytred', 'aped')}

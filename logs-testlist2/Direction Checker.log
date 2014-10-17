@@ -960,9 +960,9 @@ collectively
 
 ==> Input: 'efvfertyuiokjnbgfres', expecting 'everyones'
 ==> Stdout
-evennesss
+everyones
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'huiolkjhgfds', expecting 'hulks'
 ==> Stdout
@@ -1038,9 +1038,9 @@ fonts
 
 ==> Input: 'asxcftres', expecting 'actress'
 ==> Stdout
-actresss
+actress
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'mjuytresasrtres', expecting 'mutates'
 ==> Stdout
@@ -1158,9 +1158,9 @@ masterminds
 
 ==> Input: 'nbgfrewaserresdtyuiuyghtredfgbnbgfes', expecting 'nearsightedness'
 ==> Stdout
-nearsightednesss
+nearsightedness
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'vferfgnbfdfguioiuytr', expecting 'vendor'
 ==> Stdout
@@ -1368,9 +1368,9 @@ desolations
 
 ==> Input: 'sdfghgfdsasdfgnmnbnklkjtres', expecting 'shambles'
 ==> Stdout
-shambless
+shambles
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'ijnhgtrerfvcsasdfghjklkjhgfds', expecting 'intervals'
 ==> Stdout
@@ -1462,7 +1462,7 @@ hobbies
 ==> Return code 0
 ==> Pass
 
-==> Input: 'esxcdertyuiopoiuytrds', expecting 'excerpts'
+==> Input: 'edxcdertyuiopoiuytrds', expecting 'excerpts'
 ==> Stdout
 excerpts
 ==> Return code 0
@@ -1499,6 +1499,6 @@ gadgets
 ==> Pass
 
 ==> Done!
-==> Errors: 0/250       Fails: 21/250       Passes: 229/250     Timeouts: 0/250     
-==> Took 21.811467170715332 seconds, 0.08724586868286133 per test
-==> Fails: {('gfefgbnhtyuiklkjhtre', 'gentle'), ('ijnhgfesdtyuijnbg', 'ingesting'), ('wasdfghjklkjuytred', 'walled'), ('bnjklkjytresdtyuijng', 'blessing'), ('eaaaaasrtrs', 'eats'), ('efvfertyuiokjnbgfres', 'everyones'), ('nbgfrewaserresdtyuiuyghtredfgbnbgfes', 'nearsightedness'), ('cghuiopoijnhg', 'copping'), ('erthjklkjtredcftrtyuiokjn', 'electron'), ('poiuygfcvbhjkjhgfds', 'pucks'), ('hgfdsasrtyuijnhg', 'hatting'), ('rtyuioiuytrdses', 'roses'), ('sdrtyuiopoijng', 'stooping'), ('bhuiklkijnhg', 'bulking'), ('cfrtyuioiuyfdsdtyuijngfds', 'crossings'), ('cvghjioiuytresasdfghjkl', 'coral'), ('sdfghgfdsasdfgnmnbnklkjtres', 'shambles'), ('huiolkjhgfds', 'hulks'), ('grergbnbgfres', 'genes'), ('wertyuioiuytrdfty', 'wordy'), ('asxcftres', 'actress')}
+==> Errors: 0/250       Fails: 17/250       Passes: 233/250     Timeouts: 0/250     
+==> Took 24.539348363876343 seconds, 0.09815739345550537 per test
+==> Fails: {('wasdfghjklkjuytred', 'walled'), ('wertyuioiuytrdfty', 'wordy'), ('cghuiopoijnhg', 'copping'), ('erthjklkjtredcftrtyuiokjn', 'electron'), ('bnjklkjytresdtyuijng', 'blessing'), ('cvghjioiuytresasdfghjkl', 'coral'), ('rtyuioiuytrdses', 'roses'), ('hgfdsasrtyuijnhg', 'hatting'), ('huiolkjhgfds', 'hulks'), ('sdrtyuiopoijng', 'stooping'), ('grergbnbgfres', 'genes'), ('poiuygfcvbhjkjhgfds', 'pucks'), ('gfefgbnhtyuiklkjhtre', 'gentle'), ('cfrtyuioiuyfdsdtyuijngfds', 'crossings'), ('eaaaaasrtrs', 'eats'), ('ijnhgfesdtyuijnbg', 'ingesting'), ('bhuiklkijnhg', 'bulking')}

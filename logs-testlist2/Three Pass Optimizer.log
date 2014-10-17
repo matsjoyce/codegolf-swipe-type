@@ -322,7 +322,7 @@ brocades
 
 ==> Input: 'miuytres', expecting 'mires'
 ==> Stdout
-misss
+mess
 
 ==> Return code 0
 ==> Fail
@@ -1211,14 +1211,14 @@ fonts
 
 ==> Input: 'asxcftres', expecting 'actress'
 ==> Stdout
-actresss
+actress
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'mjuytresasrtres', expecting 'mutates'
 ==> Stdout
-mattresss
+mattress
 
 ==> Return code 0
 ==> Fail
@@ -1351,10 +1351,10 @@ masterminds
 
 ==> Input: 'nbgfrewaserresdtyuiuyghtredfgbnbgfes', expecting 'nearsightedness'
 ==> Stdout
-nearsightednesss
+nearsightedness
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'vferfgnbfdfguioiuytr', expecting 'vendor'
 ==> Stdout
@@ -1596,10 +1596,10 @@ desolations
 
 ==> Input: 'sdfghgfdsasdfgnmnbnklkjtres', expecting 'shambles'
 ==> Stdout
-shambless
+shambles
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'ijnhgtrerfvcsasdfghjklkjhgfds', expecting 'intervals'
 ==> Stdout
@@ -1706,7 +1706,7 @@ hobbies
 ==> Return code 0
 ==> Pass
 
-==> Input: 'esxcdertyuiopoiuytrds', expecting 'excerpts'
+==> Input: 'edxcdertyuiopoiuytrds', expecting 'excerpts'
 ==> Stdout
 excepts
 
@@ -1749,6 +1749,6 @@ gadgets
 ==> Pass
 
 ==> Done!
-==> Errors: 2/250       Fails: 17/250       Passes: 231/250     Timeouts: 0/250     
-==> Took 25.31016707420349 seconds, 0.10124066829681397 per test
-==> Fails: {('ijnhtrerfgbnjijnbg', 'interning'), ('wertyuiughjklkjuytres', 'wriggles'), ('wasdfghjklkjuytred', 'walled'), ('miuytres', 'mires'), ('poiuytresasdtyuiuytrds', 'pairs'), ('mjuytresasrtres', 'mutates'), ('nbgfrewaserresdtyuiuyghtredfgbnbgfes', 'nearsightedness'), ('cghuiopoijnhg', 'copping'), ('hgfdsasrtyuijnhg', 'hatting'), ('sdrtyuiopoijng', 'stooping'), ('poiuytrtyuioijhbvcdsasdcvbnjklkjytre', 'probable'), ('bhuiklkijnhg', 'bulking'), ('cvghjioiuytresasdfghjkl', 'coral'), ('sdfghgfdsasdfgnmnbnklkjtres', 'shambles'), ('huiolkjhgfds', 'hulks'), ('esxcdertyuiopoiuytrds', 'excerpts'), ('asxcftres', 'actress')}
+==> Errors: 2/250       Fails: 14/250       Passes: 234/250     Timeouts: 0/250     
+==> Took 25.15464758872986 seconds, 0.10061859035491943 per test
+==> Fails: {('poiuytrtyuioijhbvcdsasdcvbnjklkjytre', 'probable'), ('wasdfghjklkjuytred', 'walled'), ('cghuiopoijnhg', 'copping'), ('mjuytresasrtres', 'mutates'), ('wertyuiughjklkjuytres', 'wriggles'), ('cvghjioiuytresasdfghjkl', 'coral'), ('poiuytresasdtyuiuytrds', 'pairs'), ('hgfdsasrtyuijnhg', 'hatting'), ('miuytres', 'mires'), ('huiolkjhgfds', 'hulks'), ('sdrtyuiopoijng', 'stooping'), ('ijnhtrerfgbnjijnbg', 'interning'), ('edxcdertyuiopoiuytrds', 'excerpts'), ('bhuiklkijnhg', 'bulking')}

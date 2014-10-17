@@ -1709,7 +1709,7 @@ hobbies
 ==> Return code 0
 ==> Pass
 
-==> Input: 'esxcdertyuiopoiuytrds', expecting 'excerpts'
+==> Input: 'edxcdertyuiopoiuytrds', expecting 'excerpts'
 ==> Stdout
 excepts
 
@@ -1753,5 +1753,5 @@ gadgets
 
 ==> Done!
 ==> Errors: 0/250       Fails: 18/250       Passes: 232/250     Timeouts: 0/250     
-==> Took 11.908220529556274 seconds, 0.0476328821182251 per test
-==> Fails: {('cghjioiugcdes', 'choices'), ('ijnhgfesdtyuijnbg', 'ingesting'), ('cvbjkliopoiuytds', 'clips'), ('wasdfghjklkjuytred', 'walled'), ('eaaaaasrtrs', 'eats'), ('cghuiopoijnhg', 'copping'), ('poiuygfcvbhjkjhgfds', 'pucks'), ('hgfdsasrtyuijnhg', 'hatting'), ('poiuytrer', 'poorer'), ('cghuiojngfred', 'conned'), ('fguiookjnhgtrds', 'fonts'), ('fghjklkjhgfdsasrtghnbgfres', 'flatness'), ('cvghjioiuytresasdfghjkl', 'coral'), ('esxcdertyuiopoiuytrds', 'excerpts'), ('huiolkjhgfds', 'hulks'), ('poiuytresdrtyuiugfre', 'prestige'), ('gfefgbnhtyuiklkjhtre', 'gentle'), ('drtyuiopoiuytred', 'dropped')}
+==> Took 10.87079644203186 seconds, 0.043483185768127444 per test
+==> Fails: {('cvbjkliopoiuytds', 'clips'), ('wasdfghjklkjuytred', 'walled'), ('cghuiopoijnhg', 'copping'), ('cghjioiugcdes', 'choices'), ('drtyuiopoiuytred', 'dropped'), ('cvghjioiuytresasdfghjkl', 'coral'), ('poiuytrer', 'poorer'), ('poiuytresdrtyuiugfre', 'prestige'), ('hgfdsasrtyuijnhg', 'hatting'), ('huiolkjhgfds', 'hulks'), ('fguiookjnhgtrds', 'fonts'), ('gfefgbnhtyuiklkjhtre', 'gentle'), ('poiuygfcvbhjkjhgfds', 'pucks'), ('edxcdertyuiopoiuytrds', 'excerpts'), ('fghjklkjhgfdsasrtghnbgfres', 'flatness'), ('eaaaaasrtrs', 'eats'), ('ijnhgfesdtyuijnbg', 'ingesting'), ('cghuiojngfred', 'conned')}

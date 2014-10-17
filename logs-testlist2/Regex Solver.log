@@ -273,10 +273,10 @@ meekly
 
 ==> Input: 'sdyuiolkjhgfdsasxcdes', expecting 'solaces'
 ==> Stdout
-successs
+solaces
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'hgfdsasrtyuijnhg', expecting 'hatting'
 ==> Stdout
@@ -315,10 +315,10 @@ interruptions
 
 ==> Input: 'bgrtyuioiuhgcsasdes', expecting 'brocades'
 ==> Stdout
-brigades
+brocades
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'miuytres', expecting 'mires'
 ==> Stdout
@@ -637,10 +637,10 @@ dependency
 
 ==> Input: 'casdfbnkjhgreres', expecting 'cankers'
 ==> Stdout
-cankers
+careers
 
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'cvghjioiuiop', expecting 'coup'
 ==> Stdout
@@ -945,10 +945,10 @@ graveyard
 
 ==> Input: 'poiuytrtyuioihgfcdeses', expecting 'processes'
 ==> Stdout
-professes
+processes
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'nhgfreeedcdesdtyuiuytyuiuytres', expecting 'necessities'
 ==> Stdout
@@ -1204,21 +1204,21 @@ command
 
 ==> Input: 'fguiookjnhgtrds', expecting 'fonts'
 ==> Stdout
-fusss
+finds
 
 ==> Return code 0
 ==> Fail
 
 ==> Input: 'asxcftres', expecting 'actress'
 ==> Stdout
-actresss
+actress
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'mjuytresasrtres', expecting 'mutates'
 ==> Stdout
-mattresss
+mattress
 
 ==> Return code 0
 ==> Fail
@@ -1281,7 +1281,7 @@ freckled
 
 ==> Input: 'poiuytrtyuikmnhgfreres', expecting 'primers'
 ==> Stdout
-porters
+potters
 
 ==> Return code 0
 ==> Fail
@@ -1351,10 +1351,10 @@ masterminds
 
 ==> Input: 'nbgfrewaserresdtyuiuyghtredfgbnbgfes', expecting 'nearsightedness'
 ==> Stdout
-nearsightednesss
+nearsightedness
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'vferfgnbfdfguioiuytr', expecting 'vendor'
 ==> Stdout
@@ -1449,7 +1449,7 @@ countenances
 
 ==> Input: 'ghioiuytfdses', expecting 'gooses'
 ==> Stdout
-goddesss
+goddess
 
 ==> Return code 0
 ==> Fail
@@ -1561,10 +1561,10 @@ shivers
 
 ==> Input: 'poiufdsaseresasdfghjklkuytdses', expecting 'paralyses'
 ==> Stdout
-paralyses
+possesses
 
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'fguioloiuytreweres', expecting 'followers'
 ==> Stdout
@@ -1596,10 +1596,10 @@ desolations
 
 ==> Input: 'sdfghgfdsasdfgnmnbnklkjtres', expecting 'shambles'
 ==> Stdout
-shambless
+shambles
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'ijnhgtrerfvcsasdfghjklkjhgfds', expecting 'intervals'
 ==> Stdout
@@ -1706,7 +1706,7 @@ hobbies
 ==> Return code 0
 ==> Pass
 
-==> Input: 'esxcdertyuiopoiuytrds', expecting 'excerpts'
+==> Input: 'edxcdertyuiopoiuytrds', expecting 'excerpts'
 ==> Stdout
 excerpts
 
@@ -1749,6 +1749,6 @@ garrets
 ==> Fail
 
 ==> Done!
-==> Errors: 0/250       Fails: 71/250       Passes: 179/250     Timeouts: 0/250     
-==> Took 47.40761876106262 seconds, 0.18963047504425048 per test
-==> Fails: {('edftyuiugcftres', 'edicts'), ('loiuytrsasdfgbngred', 'loaned'), ('cvghuiokjnhgredcftyuijnbg', 'connecting'), ('liuytdsdrtyuijng', 'listing'), ('sdyuiolkjhgfdsasxcdes', 'solaces'), ('wasdfghjklkjuytred', 'walled'), ('nbgfrewaserresdtyuiuyghtredfgbnbgfes', 'nearsightedness'), ('sdrtyuiopoijng', 'stooping'), ('hjioiuytyuijnhg', 'hooting'), ('dfyuiuytresasdfghjkloiuguytres', 'dialogues'), ('gfdsasdfgrertrds', 'gadgets'), ('sdfguiopoiuytdsasertyuioiuytrews', 'sparrows'), ('fguioiuytreefgbjioiuyfdfyuijnhg', 'foreboding'), ('ijnhtrerfgbnjijnbg', 'interning'), ('sdrtyuioiuytrtghnmhgred', 'stormed'), ('cvbjkliopoiuytds', 'clips'), ('mkoihgfdsasdtyuiuytres', 'mohairs'), ('poiuytresasdtyuiuytrds', 'pairs'), ('erthjklkjtredcftrtyuiokjn', 'electron'), ('hgfdsasrtyuijnhg', 'hatting'), ('poiuytrtyuioihgfcdeses', 'processes'), ('poiuytdsawedfgbnbvds', 'pawns'), ('okjnuytds', 'onus'), ('poiuytrefvcdsasdtyuilkjuytred', 'prevailed'), ('poiuytrer', 'poorer'), ('edfyuijhbnklkjhtre', 'edible'), ('resdyuiopoiuytredcftrds', 'respects'), ('ghjkloiuytreweres', 'glowers'), ('fghjklkjhgfdsasdfghjkjuy', 'flaky'), ('grergbnbgfres', 'genes'), ('gfefgbnhtyuiklkjhtre', 'gentle'), ('asxcftres', 'actress'), ('rtyuioihgcvhjkijng', 'rocking'), ('dsasrtyuhbvcds', 'daubs'), ('wewasdfghjkjhgrer', 'weaker'), ('rertyuiopoiuytrefgbnhgt', 'repent'), ('poiuytrewqqwertyuuytred', 'piqued'), ('eaaaaasrtrs', 'eats'), ('tresasdfguiopolkjhtres', 'tadpoles'), ('cxsasertyuiopoiuyfds', 'carps'), ('refvghuiuytrdssdftyuijnbg', 'revising'), ('poiuytrdsasdfghjklkjhgfdsasertre', 'palate'), ('rtyuioiuytrdses', 'roses'), ('trefghnmklpoiuyt', 'tempt'), ('cvghioihgcvhjkjhgfds', 'cocks'), ('hujmklpohgfds', 'humps'), ('cghuiojngfred', 'conned'), ('poiuytrtyuioijhbvcdsasdcvbnjklkjytre', 'probable'), ('poiugfdsasdfgrer', 'pager'), ('bhuiklkijnhg', 'bulking'), ('asdfgyuiopppoiuytresasererthjklkjhgfds', 'apparels'), ('sdfghgfdsasdfgnmnbnklkjtres', 'shambles'), ('poiuytresdrtyuiugfre', 'prestige'), ('poiuytrtyuikmnhgfreres', 'primers'), ('wertyuioiuytrdfty', 'wordy'), ('bgrtyuioiuhgcsasdes', 'brocades'), ('sdfghioijhgvfdertjklkjhgfds', 'shovels'), ('mngfdsasrtyuioiuytr', 'mayor'), ('cvhjiokjnbgfdwqwertyuytrer', 'conquer'), ('miuytres', 'mires'), ('mjuytresasrtres', 'mutates'), ('ghioiuytfdses', 'gooses'), ('cghuiopoijnhg', 'copping'), ('poiuygfcvbhjkjhgfds', 'pucks'), ('rerghjmnbfdsasdfyuijngfred', 'remained'), ('efghnmnbfdsasdfguilkjhgfds', 'emails'), ('qwertyuijnhgtrertrds', 'quintets'), ('fguiookjnhgtrds', 'fonts'), ('ertytres', 'eyes'), ('cvghjioiuytresasdfghjkl', 'coral'), ('huiolkjhgfds', 'hulks')}
+==> Errors: 0/250       Fails: 67/250       Passes: 183/250     Timeouts: 0/250     
+==> Took 45.64155888557434 seconds, 0.18256623554229737 per test
+==> Fails: {('tresasdfguiopolkjhtres', 'tadpoles'), ('cvbjkliopoiuytds', 'clips'), ('cvghioihgcvhjkjhgfds', 'cocks'), ('hujmklpohgfds', 'humps'), ('wertyuioiuytrdfty', 'wordy'), ('cghuiopoijnhg', 'copping'), ('cxsasertyuiopoiuyfds', 'carps'), ('erthjklkjtredcftrtyuiokjn', 'electron'), ('poiuytdsawedfgbnbvds', 'pawns'), ('mjuytresasrtres', 'mutates'), ('fghjklkjhgfdsasdfghjkjuy', 'flaky'), ('edftyuiugcftres', 'edicts'), ('dfyuiuytresasdfghjkloiuguytres', 'dialogues'), ('resdyuiopoiuytredcftrds', 'respects'), ('hgfdsasrtyuijnhg', 'hatting'), ('huiolkjhgfds', 'hulks'), ('poiufdsaseresasdfghjklkuytdses', 'paralyses'), ('rerghjmnbfdsasdfyuijngfred', 'remained'), ('poiuytrefvcdsasdtyuilkjuytred', 'prevailed'), ('trefghnmklpoiuyt', 'tempt'), ('fguioiuytreefgbjioiuyfdfyuijnhg', 'foreboding'), ('cvghjioiuytresasdfghjkl', 'coral'), ('casdfbnkjhgreres', 'cankers'), ('cvhjiokjnbgfdwqwertyuytrer', 'conquer'), ('sdfguiopoiuytdsasertyuioiuytrews', 'sparrows'), ('asdfgyuiopppoiuytresasererthjklkjhgfds', 'apparels'), ('poiuytrtyuioijhbvcdsasdcvbnjklkjytre', 'probable'), ('wewasdfghjkjhgrer', 'weaker'), ('mkoihgfdsasdtyuiuytres', 'mohairs'), ('hjioiuytyuijnhg', 'hooting'), ('wasdfghjklkjuytred', 'walled'), ('rertyuiopoiuytrefgbnhgt', 'repent'), ('mngfdsasrtyuioiuytr', 'mayor'), ('ghioiuytfdses', 'gooses'), ('poiugfdsasdfgrer', 'pager'), ('ghjkloiuytreweres', 'glowers'), ('sdrtyuioiuytrtghnmhgred', 'stormed'), ('poiuytresdrtyuiugfre', 'prestige'), ('ertytres', 'eyes'), ('poiuytresasdtyuiuytrds', 'pairs'), ('poiuytrtyuikmnhgfreres', 'primers'), ('miuytres', 'mires'), ('liuytdsdrtyuijng', 'listing'), ('sdrtyuiopoijng', 'stooping'), ('grergbnbgfres', 'genes'), ('gfefgbnhtyuiklkjhtre', 'gentle'), ('rtyuioihgcvhjkijng', 'rocking'), ('dsasrtyuhbvcds', 'daubs'), ('cghuiojngfred', 'conned'), ('loiuytrsasdfgbngred', 'loaned'), ('gfdsasdfgrertrds', 'gadgets'), ('poiuytrewqqwertyuuytred', 'piqued'), ('poiuytrdsasdfghjklkjhgfdsasertre', 'palate'), ('refvghuiuytrdssdftyuijnbg', 'revising'), ('edfyuijhbnklkjhtre', 'edible'), ('efghnmnbfdsasdfguilkjhgfds', 'emails'), ('poiuytrer', 'poorer'), ('rtyuioiuytrdses', 'roses'), ('qwertyuijnhgtrertrds', 'quintets'), ('fguiookjnhgtrds', 'fonts'), ('poiuygfcvbhjkjhgfds', 'pucks'), ('ijnhtrerfgbnjijnbg', 'interning'), ('sdfghioijhgvfdertjklkjhgfds', 'shovels'), ('cvghuiokjnhgredcftyuijnbg', 'connecting'), ('eaaaaasrtrs', 'eats'), ('okjnuytds', 'onus'), ('bhuiklkijnhg', 'bulking')}
