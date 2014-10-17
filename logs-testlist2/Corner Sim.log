@@ -322,10 +322,10 @@ brocades
 
 ==> Input: 'miuytres', expecting 'mires'
 ==> Stdout
-mess
+mires
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'njoijbnklkjhgrewertyuiokmjhgrerfghn', expecting 'noblewomen'
 ==> Stdout
@@ -364,10 +364,10 @@ wordy
 
 ==> Input: 'sdrtyuiopoijng', expecting 'stooping'
 ==> Stdout
-stripping
+stooping
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'bvcxsasdfgbnbfd', expecting 'band'
 ==> Stdout
@@ -434,7 +434,7 @@ seizures
 
 ==> Input: 'cghuiopoijnhg', expecting 'copping'
 ==> Stdout
-chopping
+chipping
 
 ==> Return code 0
 ==> Fail
@@ -469,10 +469,10 @@ rocking
 
 ==> Input: 'eaaaaasrtrs', expecting 'eats'
 ==> Stdout
-eats
+easts
 
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'poiuytrerfguioiuytrtghnmngfds', expecting 'performs'
 ==> Stdout
@@ -615,11 +615,11 @@ bellhops
 ==> Pass
 
 ==> Input: 'lkjhgfdsasers', expecting 'lasers'
-==> Stderr
-entries/three_pass_optimizer.js:66:2 TypeError: third is null
+==> Stdout
+lasers
 
-==> Return code 3
-==> Error
+==> Return code 0
+==> Pass
 
 ==> Input: 'mnbvcdsasertyuijnbvfdsasrtred', expecting 'marinated'
 ==> Stdout
@@ -917,17 +917,17 @@ corruption
 
 ==> Input: 'poiuytresasdtyuiuytrds', expecting 'pairs'
 ==> Stdout
-portraits
+pairs
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'ijnhtrerfgbnjijnbg', expecting 'interning'
 ==> Stdout
-interring
+interning
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'jiolkyuijng', expecting 'jollying'
 ==> Stdout
@@ -1078,17 +1078,17 @@ monitors
 
 ==> Input: 'poiuytrtyuioijhbvcdsasdcvbnjklkjytre', expecting 'probable'
 ==> Stdout
-provable
+probable
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'wertyuiughjklkjuytres', expecting 'wriggles'
 ==> Stdout
-wiggles
+wriggles
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'fghjklkjtresdfghgres', expecting 'fleshes'
 ==> Stdout
@@ -1127,7 +1127,7 @@ everyones
 
 ==> Input: 'huiolkjhgfds', expecting 'hulks'
 ==> Stdout
-hulls
+hills
 
 ==> Return code 0
 ==> Fail
@@ -1141,7 +1141,7 @@ blueberries
 
 ==> Input: 'wasdfghjklkjuytred', expecting 'walled'
 ==> Stdout
-walked
+waddled
 
 ==> Return code 0
 ==> Fail
@@ -1218,10 +1218,10 @@ actress
 
 ==> Input: 'mjuytresasrtres', expecting 'mutates'
 ==> Stdout
-mattress
+mutates
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'cghuiokjnnngfyuiuhghuytresasrtyuiokjnbgfds', expecting 'configurations'
 ==> Stdout
@@ -1323,10 +1323,10 @@ ornithologist
 
 ==> Input: 'bhuiklkijnhg', expecting 'bulking'
 ==> Stdout
-bulling
+bulking
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'exdftresaasdfgyuiuyttyuiokjnbvds', expecting 'extraditions'
 ==> Stdout
@@ -1428,10 +1428,10 @@ invasions
 
 ==> Input: 'gfefgbnhtyuiklkjhtre', expecting 'gentle'
 ==> Stdout
-gentle
+gentile
 
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'ytrewasdrt', expecting 'yeast'
 ==> Stdout
@@ -1484,10 +1484,10 @@ foreboding
 
 ==> Input: 'rtyuioiuytrdses', expecting 'roses'
 ==> Stdout
-roses
+rouses
 
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'fguioiuytresdrttttttttrtytds', expecting 'forestrys'
 ==> Stdout
@@ -1505,10 +1505,10 @@ manufacture
 
 ==> Input: 'drtyuiopoiuytred', expecting 'dropped'
 ==> Stdout
-dropped
+dripped
 
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'frtyuiuhgvghuioloiuyty', expecting 'frivolity'
 ==> Stdout
@@ -1610,10 +1610,10 @@ intervals
 
 ==> Input: 'liuytdsdrtyuijng', expecting 'listing'
 ==> Stdout
-listing
+lusting
 
 ==> Return code 0
-==> Pass
+==> Fail
 
 ==> Input: 'sdfguiopoiuytdsasertyuioiuytrews', expecting 'sparrows'
 ==> Stdout
@@ -1708,10 +1708,10 @@ hobbies
 
 ==> Input: 'edxcdertyuiopoiuytrds', expecting 'excerpts'
 ==> Stdout
-excepts
+excerpts
 
 ==> Return code 0
-==> Fail
+==> Pass
 
 ==> Input: 'poiuytrertyuiopoiuytrertresasrtred', expecting 'perpetrated'
 ==> Stdout
@@ -1735,11 +1735,11 @@ pistachio
 ==> Pass
 
 ==> Input: 'tresdfyuiopoiuytrsaser', expecting 'trespasser'
-==> Stderr
-entries/three_pass_optimizer.js:66:2 TypeError: third is null
+==> Stdout
+trespasser
 
-==> Return code 3
-==> Error
+==> Return code 0
+==> Pass
 
 ==> Input: 'gfdsasdfgrertrds', expecting 'gadgets'
 ==> Stdout
@@ -1749,6 +1749,6 @@ gadgets
 ==> Pass
 
 ==> Done!
-==> Errors: 2/250       Fails: 14/250       Passes: 234/250     Timeouts: 0/250     
-==> Took 16.889742851257324 seconds, 0.0675589714050293 per test
-==> Fails: {('miuytres', 'mires'), ('sdrtyuiopoijng', 'stooping'), ('mjuytresasrtres', 'mutates'), ('poiuytrtyuioijhbvcdsasdcvbnjklkjytre', 'probable'), ('wasdfghjklkjuytred', 'walled'), ('bhuiklkijnhg', 'bulking'), ('poiuytresasdtyuiuytrds', 'pairs'), ('cghuiopoijnhg', 'copping'), ('edxcdertyuiopoiuytrds', 'excerpts'), ('huiolkjhgfds', 'hulks'), ('hgfdsasrtyuijnhg', 'hatting'), ('ijnhtrerfgbnjijnbg', 'interning'), ('cvghjioiuytresasdfghjkl', 'coral'), ('wertyuiughjklkjuytres', 'wriggles')}
+==> Errors: 0/250       Fails: 10/250       Passes: 240/250     Timeouts: 0/250     
+==> Took 23.086961030960083 seconds, 0.09234784412384033 per test
+==> Fails: {('gfefgbnhtyuiklkjhtre', 'gentle'), ('rtyuioiuytrdses', 'roses'), ('drtyuiopoiuytred', 'dropped'), ('eaaaaasrtrs', 'eats'), ('wasdfghjklkjuytred', 'walled'), ('liuytdsdrtyuijng', 'listing'), ('cghuiopoijnhg', 'copping'), ('huiolkjhgfds', 'hulks'), ('hgfdsasrtyuijnhg', 'hatting'), ('cvghjioiuytresasdfghjkl', 'coral')}

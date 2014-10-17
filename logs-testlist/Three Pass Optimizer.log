@@ -1750,5 +1750,5 @@ inundate
 
 ==> Done!
 ==> Errors: 0/250       Fails: 7/250        Passes: 243/250     Timeouts: 0/250     
-==> Took 22.550347328186035 seconds, 0.09020138931274414 per test
-==> Fails: {('bgresasdrtrds', 'brats'), ('hjioiuyfdsdrtrds', 'hoists'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('werthjikmngfds', 'whims'), ('tresazxcvbjkjhgred', 'tacked'), ('plkjhgfdsasrtreres', 'plasters'), ('asdfguiopoiuytred', 'aped')}
+==> Took 20.11291217803955 seconds, 0.08045164871215821 per test
+==> Fails: {('tresazxcvbjkjhgred', 'tacked'), ('bgresasdrtrds', 'brats'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('plkjhgfdsasrtreres', 'plasters'), ('hjioiuyfdsdrtrds', 'hoists'), ('asdfguiopoiuytred', 'aped'), ('werthjikmngfds', 'whims')}

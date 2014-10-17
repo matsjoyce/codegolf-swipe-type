@@ -6,13 +6,13 @@ Processing: Regex Solver
 	Options: argv: true
 	Runner command: ruby entries/regex-solver.rb
 	Running... Done!
-	Took 45.64155888557434 seconds, 0.18256623554229737 per test
+	Took 33.16868305206299 seconds, 0.13267473220825196 per test
 
 Processing: Direction Checker
 	Options: argv: true
 	Runner command: php entries/direction-checker.php
 	Running... Done!
-	Took 24.539348363876343 seconds, 0.09815739345550537 per test
+	Took 17.69278573989868 seconds, 0.07077114295959473 per test
 
 Processing: Discrete Fréchet Distance
 	Options: 
@@ -20,22 +20,29 @@ Processing: Discrete Fréchet Distance
 	Compiling... OK
 	Runner command: entries/discrete_fréchet_distance
 	Running... Done!
-	Took 10.87079644203186 seconds, 0.043483185768127444 per test
+	Took 10.285614013671875 seconds, 0.0411424560546875 per test
 
 Processing: Turnaround
 	Options: argv: true
 	Runner command: python2 entries/turnaround.py
 	Running... Done!
-	Took 19.33185338973999 seconds, 0.07732741355895996 per test
+	Took 15.3338463306427 seconds, 0.0613353853225708 per test
 
 Processing: Three Pass Optimizer
 	Options: 
 	Runner command: ./jsshell-linux-x86_64/js entries/three_pass_optimizer.js
 	Running... Done!
-	Took 25.15464758872986 seconds, 0.10061859035491943 per test
+	Took 16.889742851257324 seconds, 0.0675589714050293 per test
+
+Processing: Corner Sim
+	Options: 
+	Runner command: python3 entries/corner_sim.py
+	Running... Done!
+	Took 23.086961030960083 seconds, 0.09234784412384033 per test
 
 Testing done!
 ====================================================================================================
+Corner Sim:         Errors: 0/250       Fails: 10/250       Passes: 240/250     Timeouts: 0/250     
 Three Pass Optimizer:Errors: 2/250       Fails: 14/250       Passes: 234/250     Timeouts: 0/250     
 Turnaround:         Errors: 0/250       Fails: 16/250       Passes: 234/250     Timeouts: 0/250     
 Direction Checker:  Errors: 0/250       Fails: 17/250       Passes: 233/250     Timeouts: 0/250     

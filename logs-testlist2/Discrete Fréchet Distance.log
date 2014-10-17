@@ -1753,5 +1753,5 @@ gadgets
 
 ==> Done!
 ==> Errors: 0/250       Fails: 18/250       Passes: 232/250     Timeouts: 0/250     
-==> Took 10.87079644203186 seconds, 0.043483185768127444 per test
-==> Fails: {('cvbjkliopoiuytds', 'clips'), ('wasdfghjklkjuytred', 'walled'), ('cghuiopoijnhg', 'copping'), ('cghjioiugcdes', 'choices'), ('drtyuiopoiuytred', 'dropped'), ('cvghjioiuytresasdfghjkl', 'coral'), ('poiuytrer', 'poorer'), ('poiuytresdrtyuiugfre', 'prestige'), ('hgfdsasrtyuijnhg', 'hatting'), ('huiolkjhgfds', 'hulks'), ('fguiookjnhgtrds', 'fonts'), ('gfefgbnhtyuiklkjhtre', 'gentle'), ('poiuygfcvbhjkjhgfds', 'pucks'), ('edxcdertyuiopoiuytrds', 'excerpts'), ('fghjklkjhgfdsasrtghnbgfres', 'flatness'), ('eaaaaasrtrs', 'eats'), ('ijnhgfesdtyuijnbg', 'ingesting'), ('cghuiojngfred', 'conned')}
+==> Took 10.285614013671875 seconds, 0.0411424560546875 per test
+==> Fails: {('poiuygfcvbhjkjhgfds', 'pucks'), ('gfefgbnhtyuiklkjhtre', 'gentle'), ('cvbjkliopoiuytds', 'clips'), ('drtyuiopoiuytred', 'dropped'), ('eaaaaasrtrs', 'eats'), ('wasdfghjklkjuytred', 'walled'), ('poiuytrer', 'poorer'), ('fguiookjnhgtrds', 'fonts'), ('fghjklkjhgfdsasrtghnbgfres', 'flatness'), ('cghuiopoijnhg', 'copping'), ('edxcdertyuiopoiuytrds', 'excerpts'), ('cghjioiugcdes', 'choices'), ('ijnhgfesdtyuijnbg', 'ingesting'), ('huiolkjhgfds', 'hulks'), ('hgfdsasrtyuijnhg', 'hatting'), ('cghuiojngfred', 'conned'), ('poiuytresdrtyuiugfre', 'prestige'), ('cvghjioiuytresasdfghjkl', 'coral')}

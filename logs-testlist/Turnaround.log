@@ -1750,5 +1750,5 @@ inundate
 
 ==> Done!
 ==> Errors: 0/250       Fails: 18/250       Passes: 232/250     Timeouts: 0/250     
-==> Took 18.4939124584198 seconds, 0.0739756498336792 per test
-==> Fails: {('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('wertyuijnbgfres', 'wines'), ('mkiuytresasdfgfes', 'mirages'), ('dfgyuioiuytrewwedfgbnjiuytresdrt', 'downiest'), ('cxsasdrtyuijnhg', 'casting'), ('ases', 'asses'), ('bhuytred', 'butted'), ('bgresasdrtrds', 'brats'), ('dsasdfghnmnbfds', 'dams'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('werthjikmngfds', 'whims'), ('resasdbnmnbvfds', 'rams'), ('tresazxcvbjkjhgred', 'tacked'), ('jiokjhgreres', 'jokers'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('bjokmngfds', 'booms'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('asdfguiopoiuytred', 'aped')}
+==> Took 15.500135660171509 seconds, 0.06200054264068604 per test
+==> Fails: {('mkiuytresasdfgfes', 'mirages'), ('ases', 'asses'), ('werthjikmngfds', 'whims'), ('tresazxcvbjkjhgred', 'tacked'), ('bgresasdrtrds', 'brats'), ('sdfyuikmnbgfertyuijnbg', 'simmering'), ('sdftyuikmjuuilkjhgfdsasdrtyuijnbg', 'simulating'), ('dsasdfghnmnbfds', 'dams'), ('asdfguiopoiuytred', 'aped'), ('cvbhjkloiuydsasxcvhjkjhgfds', 'cloaks'), ('bjokmngfds', 'booms'), ('resasdbnmnbvfds', 'rams'), ('cxsasdrtyuijnhg', 'casting'), ('dfgyuioiuytrewwedfgbnjiuytresdrt', 'downiest'), ('ijnbvdsascvbnbgfesdt', 'inanest'), ('wertyuijnbgfres', 'wines'), ('jiokjhgreres', 'jokers'), ('bhuytred', 'butted')}
