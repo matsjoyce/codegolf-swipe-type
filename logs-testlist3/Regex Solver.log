@@ -1,0 +1,1754 @@
+==> Input: 'nbfdsaserfcghuioiuytyuiuhgcds', expecting 'narcotics'
+==> Stdout
+narcotics
+
+==> Return code 0
+==> Pass
+
+==> Input: 'waserds', expecting 'wards'
+==> Stdout
+wards
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfgbnmkokjhgreres', expecting 'smokers'
+==> Stdout
+smokers
+
+==> Return code 0
+==> Pass
+
+==> Input: 'swertyuiuytrdsdfghgfds', expecting 'swishs'
+==> Stdout
+swishs
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bvcdsasdfgbnbgfdsasdfgfre', expecting 'bandage'
+==> Stdout
+baggage
+
+==> Return code 0
+==> Fail
+
+==> Input: 'ijnjhgtredcft', expecting 'inject'
+==> Stdout
+inject
+
+==> Return code 0
+==> Pass
+
+==> Input: 'hjioiuytrghnbfds', expecting 'horns'
+==> Stdout
+hounds
+
+==> Return code 0
+==> Fail
+
+==> Input: 'cvbhjklkjhgfdsaws', expecting 'claws'
+==> Stdout
+claws
+
+==> Return code 0
+==> Pass
+
+==> Input: 'fgyujnbfdsasdfgbnmhgferfghnhgtrsasdfghjkliuytrdsdrt', expecting 'fundamentalist'
+==> Stdout
+fundamentalist
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poliuytyuiiiuhgvcguiuytrdsasdfgbnbgfds', expecting 'politicians'
+==> Stdout
+politicians
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdcccccccsaseredcfrtyuioiuytrews', expecting 'scarecrows'
+==> Stdout
+scarecrows
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cfrtyuiuytrdsdfgyuiopoijnhg', expecting 'crisping'
+==> Stdout
+cruising
+
+==> Return code 0
+==> Fail
+
+==> Input: 'wertyuikl', expecting 'well'
+==> Stdout
+will
+
+==> Return code 0
+==> Fail
+
+==> Input: 'asdfgyuiliuytrdsasertyuijnhg', expecting 'affiliating'
+==> Stdout
+affiliating
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuhgfdsasxcvghuiiuygfguiiuytrdsdrtrds', expecting 'pacifists'
+==> Stdout
+pacifists
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cvbhjkloiuyfds', expecting 'clods'
+==> Stdout
+clouds
+
+==> Return code 0
+==> Fail
+
+==> Input: 'bgrtyujnhgfrerttres', expecting 'brunettes'
+==> Stdout
+brunettes
+
+==> Return code 0
+==> Pass
+
+==> Input: 'edxdftrefgbnhgtrds', expecting 'extents'
+==> Stdout
+extents
+
+==> Return code 0
+==> Pass
+
+==> Input: 'mnhgfrerfghnmmnhgrefgbnhgtyuioiuytfds', expecting 'mementos'
+==> Stdout
+mementos
+
+==> Return code 0
+==> Pass
+
+==> Input: 'oiuytrewertyuiiiiiiiiiiiiiiiiiiiiiiiiiiuhgh', expecting 'outweigh'
+==> Stdout
+outweigh
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ijnklkjhgfdsasdfbnbgfd', expecting 'inland'
+==> Stdout
+inland
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sertyuiopoijnhg', expecting 'seeping'
+==> Stdout
+stopping
+
+==> Return code 0
+==> Fail
+
+==> Input: 'rertghjklkiuygcftttresasdfgbnbvcdes', expecting 'reluctances'
+==> Stdout
+reluctances
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bvfewqwertyuytrewasrth', expecting 'bequeath'
+==> Stdout
+bequeath
+
+==> Return code 0
+==> Pass
+
+==> Input: 'gferfgbnji', expecting 'genii'
+==> Stdout
+genii
+
+==> Return code 0
+==> Pass
+
+==> Input: 'kmnhuygfcvhjklkuytre', expecting 'knuckle'
+==> Stdout
+knuckle
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfghuiopoiuytrtyuijnhg', expecting 'spring'
+==> Stdout
+supporting
+
+==> Return code 0
+==> Fail
+
+==> Input: 'fghjkloiuytrtyuijnbg', expecting 'flouring'
+==> Stdout
+flurrying
+
+==> Return code 0
+==> Fail
+
+==> Input: 'crtyuijhb', expecting 'crib'
+==> Stdout
+crib
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bhjioklkjytrert', expecting 'booklet'
+==> Stdout
+booklet
+
+==> Return code 0
+==> Pass
+
+==> Input: 'wertyuijnbfdsdccfrerfgbnbfds', expecting 'windscreens'
+==> Stdout
+windscreens
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cvghgfdsasdrtrerfghngfred', expecting 'chastened'
+==> Stdout
+chartered
+
+==> Return code 0
+==> Fail
+
+==> Input: 'rtyuioiuuuyghuijng', expecting 'roughing'
+==> Stdout
+roughing
+
+==> Return code 0
+==> Pass
+
+==> Input: 'tresascvfderese', expecting 'traverse'
+==> Stdout
+traverse
+
+==> Return code 0
+==> Pass
+
+==> Input: 'hjioiuytre', expecting 'hoe'
+==> Stdout
+hire
+
+==> Return code 0
+==> Fail
+
+==> Input: 'okjbvvvvvvghuioiuuygfdsdfghjklkuy', expecting 'obviously'
+==> Stdout
+obviously
+
+==> Return code 0
+==> Pass
+
+==> Input: 'dertresdrt', expecting 'detest'
+==> Stdout
+detest
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cxsaserrrrtyuiiiiiiiugfcxsasrtyuytres', expecting 'caricatures'
+==> Stdout
+caricatures
+
+==> Return code 0
+==> Pass
+
+==> Input: 'erfghnbvcsasdfguiopoiufdsdtyuklkjhgfdsasdrtre', expecting 'encapsulate'
+==> Stdout
+encapsulate
+
+==> Return code 0
+==> Pass
+
+==> Input: 'edxzasdfghjklkjytrds', expecting 'exalts'
+==> Stdout
+exalts
+
+==> Return code 0
+==> Pass
+
+==> Input: 'mkijnjkoiuytr', expecting 'minor'
+==> Stdout
+minor
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cfgygfcvbhjklkjytre', expecting 'cycle'
+==> Stdout
+cycle
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poilkjhgfdsasdfgfre', expecting 'pillage'
+==> Stdout
+pillage
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuytrerds', expecting 'putters'
+==> Stdout
+putters
+
+==> Return code 0
+==> Pass
+
+==> Input: 'resasdfghuiopoiuytfdsdrtrds', expecting 'rapists'
+==> Stdout
+rapports
+
+==> Return code 0
+==> Fail
+
+==> Input: 'swasrty', expecting 'sway'
+==> Stdout
+sassy
+
+==> Return code 0
+==> Fail
+
+==> Input: 'sdrtrtyuyghjklkuytres', expecting 'struggles'
+==> Stdout
+struggles
+
+==> Return code 0
+==> Pass
+
+==> Input: 'rtyujmnbnklijnbg', expecting 'rumbling'
+==> Stdout
+rumbling
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poliuytreeeeeertyjklkiuy', expecting 'politely'
+==> Stdout
+politely
+
+==> Return code 0
+==> Pass
+
+==> Input: 'dfgyuiuytdssssdtyuytrdsasded', expecting 'dissuaded'
+==> Stdout
+dissuaded
+
+==> Return code 0
+==> Pass
+
+==> Input: 'rerghgfdsasdfvbbbbbbbbhjiliuytrsasrtyuiokjn', expecting 'rehabilitation'
+==> Stdout
+rehabilitation
+
+==> Return code 0
+==> Pass
+
+==> Input: 'rertyuiopoiuilkjhgfdse', expecting 'repulse'
+==> Stdout
+repulse
+
+==> Return code 0
+==> Pass
+
+==> Input: 'trtyujnbvcxsasertred', expecting 'truncated'
+==> Stdout
+truncated
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cvghiojnbgfdfyuuuuuuuygfcftyuioiuytr', expecting 'conductor'
+==> Stdout
+conductor
+
+==> Return code 0
+==> Pass
+
+==> Input: 'lkjhgfdsasdfvbnmkijnhg', expecting 'laming'
+==> Stdout
+laming
+
+==> Return code 0
+==> Pass
+
+==> Input: 'fgyuytrgbnbfdsasxcdes', expecting 'furnaces'
+==> Stdout
+furnaces
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cfgyuytdsdrtrdsaserd', expecting 'custard'
+==> Stdout
+custard
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cxsasdertres', expecting 'cadets'
+==> Stdout
+cassettes
+
+==> Return code 0
+==> Fail
+
+==> Input: 'dfyuiugtreses', expecting 'digresses'
+==> Stdout
+digresses
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfyuijnjkjhgfds', expecting 'sinks'
+==> Stdout
+sinks
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfghjiooiuiklkjhgfderes', expecting 'shoulders'
+==> Stdout
+shoulders
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ijnbvfdesdrthjmnhgrerfgbnhgt', expecting 'investment'
+==> Stdout
+investment
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ujnbfdsdftyuiugnhgred', expecting 'unsigned'
+==> Stdout
+unsigned
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdrtyhnnhgtttttresasxccftyuiuhgfccxsasdfghjklkiuy', expecting 'syntactically'
+==> Stdout
+syntactically
+
+==> Return code 0
+==> Pass
+
+==> Input: 'trtyuihbgfe', expecting 'tribe'
+==> Stdout
+tribe
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cfgyuiuytrdcgyuilkjhgfdsaseres', expecting 'circulars'
+==> Stdout
+circulars
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bnjklkjhgfdsasdcvb', expecting 'blab'
+==> Stdout
+blab
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfghiolkjhgre', expecting 'sole'
+==> Stdout
+shire
+
+==> Return code 0
+==> Fail
+
+==> Input: 'trdsasdfgyuiiiliuhght', expecting 'taillight'
+==> Stdout
+taillight
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuytrertyuytdsdfyuijng', expecting 'perusing'
+==> Stdout
+pottering
+
+==> Return code 0
+==> Fail
+
+==> Input: 'cxsasdfghjmnhgrere', expecting 'cashmere'
+==> Stdout
+cashmere
+
+==> Return code 0
+==> Pass
+
+==> Input: 'lkjhytrewasdfyuiopoiuytds', expecting 'leaps'
+==> Stdout
+leeways
+
+==> Return code 0
+==> Fail
+
+==> Input: 'cghuiollkjhgfdsaasdfvbnjiooiuytrresasertres', expecting 'collaborates'
+==> Stdout
+collaborates
+
+==> Return code 0
+==> Pass
+
+==> Input: 'fghuioiujnhtrsasdtyuijnbfds', expecting 'fountains'
+==> Stdout
+fountains
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bgrtyuioiuytrdsasderfgbnjijnhg', expecting 'broadening'
+==> Stdout
+broadening
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bnjklooiuyfdfyuiuytred', expecting 'bloodied'
+==> Stdout
+bloodied
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cvbhjklikmngfdsasxxxxxxs', expecting 'climaxs'
+==> Stdout
+climaxs
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sasdfghjklkjytres', expecting 'sales'
+==> Stdout
+saddles
+
+==> Return code 0
+==> Fail
+
+==> Input: 'oiuytresaseres', expecting 'oars'
+==> Stdout
+otters
+
+==> Return code 0
+==> Fail
+
+==> Input: 'seasdvbnmnbfds', expecting 'seams'
+==> Stdout
+seeds
+
+==> Return code 0
+==> Fail
+
+==> Input: 'poiuytreresdftyuiokjnbvcsa', expecting 'persona'
+==> Stdout
+persona
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuytrtyuioiuytrdsaasdfghuioknjiuydsdft', expecting 'protagonist'
+==> Stdout
+protagonist
+
+==> Return code 0
+==> Pass
+
+==> Input: 'njiuytrewertyuiuytrds', expecting 'nitwits'
+==> Stdout
+nitwits
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ertyjkliopoiuytdses', expecting 'ellipses'
+==> Stdout
+ellipses
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfghiopoijnhgrertyjklkjytres', expecting 'spineless'
+==> Stdout
+spineless
+
+==> Return code 0
+==> Pass
+
+==> Input: 'mnbfdsasdfghjklkjtrertrds', expecting 'mallets'
+==> Stdout
+mattress
+
+==> Return code 0
+==> Fail
+
+==> Input: 'wefghuiuytrerghngfred', expecting 'whitened'
+==> Stdout
+whitened
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bhujmngfds', expecting 'bums'
+==> Stdout
+buffs
+
+==> Return code 0
+==> Fail
+
+==> Input: 'opoiuytreresasrtyuiokjnbfds', expecting 'operations'
+==> Stdout
+oppressions
+
+==> Return code 0
+==> Fail
+
+==> Input: 'cdertresasdtyuijnnnnnnnhgtytrds', expecting 'certaintys'
+==> Stdout
+certaintys
+
+==> Return code 0
+==> Pass
+
+==> Input: 'liuytrewqwertyuuuuuuuioiuytrds', expecting 'liquors'
+==> Stdout
+liquids
+
+==> Return code 0
+==> Fail
+
+==> Input: 'sdcxsasdfghjkliuytresdrt', expecting 'scaliest'
+==> Stdout
+sassiest
+
+==> Return code 0
+==> Fail
+
+==> Input: 'waxcvbnjijnhg', expecting 'waning'
+==> Stdout
+waving
+
+==> Return code 0
+==> Fail
+
+==> Input: 'rtyuytresasdfghjkl', expecting 'rural'
+==> Stdout
+rural
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfghjklkjhgfdsasrtrds', expecting 'slats'
+==> Stdout
+slats
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cxsasdvbnnnnnnnnnnnhgtresasdfghjkloooooooooooooooooiuiopoiuytre', expecting 'cantaloupe'
+==> Stdout
+cantaloupe
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdtyhnbfdfyuiuhgcxsasertyuijnbg', expecting 'syndicating'
+==> Stdout
+syndicating
+
+==> Return code 0
+==> Pass
+
+==> Input: 'iuytyuiiiiiiiijnnbgfeeeerrresasertytrs', expecting 'itinerarys'
+==> Stdout
+itinerarys
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuythiokjnbfds', expecting 'pythons'
+==> Stdout
+pythons
+
+==> Return code 0
+==> Pass
+
+==> Input: 'plkjhgfdsasdrtyyytrewertyuiughtrds', expecting 'playwrights'
+==> Stdout
+playwrights
+
+==> Return code 0
+==> Pass
+
+==> Input: 'hgfdsaserdwertyuioiuytfd', expecting 'hardwood'
+==> Stdout
+hardwood
+
+==> Return code 0
+==> Pass
+
+==> Input: 'nbgrertyuytrtyuioloiuhgy', expecting 'neurology'
+==> Stdout
+neurology
+
+==> Return code 0
+==> Pass
+
+==> Input: 'hjioiujnbgfd', expecting 'hound'
+==> Stdout
+hound
+
+==> Return code 0
+==> Pass
+
+==> Input: 'mngfefgnmkoiuytrtyuiuytdsasdfghjklkjhgfds', expecting 'memorials'
+==> Stdout
+memorials
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cvhujm', expecting 'chum'
+==> Stdout
+chum
+
+==> Return code 0
+==> Pass
+
+==> Input: 'lojbvfds', expecting 'lobs'
+==> Stdout
+lobs
+
+==> Return code 0
+==> Pass
+
+==> Input: 'freasdfghnmnhgrefgbnnhgtyuijng', expecting 'fragmenting'
+==> Stdout
+fragmenting
+
+==> Return code 0
+==> Pass
+
+==> Input: 'redcghuioiuytrd', expecting 'record'
+==> Stdout
+record
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bfertghuijhbvfes', expecting 'beehives'
+==> Stdout
+beehives
+
+==> Return code 0
+==> Pass
+
+==> Input: 'thhuiuytrefvfes', expecting 'thieves'
+==> Stdout
+thieves
+
+==> Return code 0
+==> Pass
+
+==> Input: 'vhjijhbgresasrtyuiokjnbfds', expecting 'vibrations'
+==> Stdout
+vibrations
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cderefghnmkoknhy', expecting 'ceremony'
+==> Stdout
+ceremony
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdrtyhjmmklpoiuytdsasertthytds', expecting 'sympathys'
+==> Stdout
+sympathys
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdrtyuiopoiuytrergbnnnnbfdfguioiuytrds', expecting 'stupendous'
+==> Stdout
+stupendous
+
+==> Return code 0
+==> Pass
+
+==> Input: 'uyghjkliuytrer', expecting 'uglier'
+==> Stdout
+uglier
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sasdfghjklkytresdfbnmnbsascvbn', expecting 'salesman'
+==> Stdout
+salesman
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ujnhttttttttttttttttttttttttttttrtyuytrer', expecting 'untruer'
+==> Stdout
+untruer
+
+==> Return code 0
+==> Pass
+
+==> Input: 'asxcvghioiuyfdsdrtrs', expecting 'accosts'
+==> Stdout
+assists
+
+==> Return code 0
+==> Fail
+
+==> Input: 'poiuytrerghnmmngfdsasdvbnbgfefgbnhtyjklkjuy', expecting 'permanently'
+==> Stdout
+permanently
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cghjioiuytrerthjklkjhgfdsasertre', expecting 'correlate'
+==> Stdout
+correlate
+
+==> Return code 0
+==> Pass
+
+==> Input: 'asdfbnmnbhuytdsdfghgres', expecting 'ambushes'
+==> Stdout
+ambushes
+
+==> Return code 0
+==> Pass
+
+==> Input: 'wefghuiuytregnbgfds', expecting 'whitens'
+==> Stdout
+whitens
+
+==> Return code 0
+==> Pass
+
+==> Input: 'rertrsasdtyuiklkjhgfer', expecting 'retailer'
+==> Stdout
+retailer
+
+==> Return code 0
+==> Pass
+
+==> Input: 'swertyuikmijnhg', expecting 'swimming'
+==> Stdout
+swimming
+
+==> Return code 0
+==> Pass
+
+==> Input: 'wasdfgfds', expecting 'wags'
+==> Stdout
+wags
+
+==> Return code 0
+==> Pass
+
+==> Input: 'lkiuytrewqwertyuioiuytr', expecting 'liquor'
+==> Stdout
+liquor
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cghiojnbfdfyuygfcftred', expecting 'conducted'
+==> Stdout
+conducted
+
+==> Return code 0
+==> Pass
+
+==> Input: 'asdrtyuuytdfyuiuytrds', expecting 'audits'
+==> Stdout
+audits
+
+==> Return code 0
+==> Pass
+
+==> Input: 'trdsasdfyuuuuuuuuuytrer', expecting 'tauter'
+==> Stdout
+trader
+
+==> Return code 0
+==> Fail
+
+==> Input: 'cxsasdcvfe', expecting 'cave'
+==> Stdout
+cave
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cvghiokmklplihgvcxsasrtyuijng', expecting 'complicating'
+==> Stdout
+complicating
+
+==> Return code 0
+==> Pass
+
+==> Input: 'trefgbnhtrds', expecting 'tents'
+==> Stdout
+trends
+
+==> Return code 0
+==> Fail
+
+==> Input: 'miuhgrsasrtyuiokjnbfds', expecting 'migrations'
+==> Stdout
+migrations
+
+==> Return code 0
+==> Pass
+
+==> Input: 'desdtyuiolkjhgfdsasrtred', expecting 'desolated'
+==> Stdout
+desolated
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfghjioiuytrthgfdsasdvbnbfds', expecting 'shorthands'
+==> Stdout
+shorthands
+
+==> Return code 0
+==> Pass
+
+==> Input: 'dfguiuytrsascvbjioliuhgcxsasdfghjkl', expecting 'diabolical'
+==> Stdout
+diabolical
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdyuioiuyd', expecting 'sod'
+==> Stdout
+sod
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cghiokmkopoiuytrerghgrerfgbnbfdsdtyuiiuhgvfderghjklkiuy', expecting 'comprehensively'
+==> Stdout
+comprehensively
+
+==> Return code 0
+==> Pass
+
+==> Input: 'pojhhhhgrefgbnnjkokmnhgrerfghnkoknbfds', expecting 'phenomenons'
+==> Stdout
+phenomenons
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cghiokjnnnnnnnnnnnbdserfvcdsasertttyuioiuytrty', expecting 'conservatory'
+==> Stdout
+conservatory
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfghjkkkkkkkkkkkkkkkkkkkjhgrertyuijnbfds', expecting 'skeins'
+==> Stdout
+sheriffs
+
+==> Return code 0
+==> Fail
+
+==> Input: 'edxdftttttrerfghjmkiuyty', expecting 'extremity'
+==> Stdout
+extremity
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuytrerfcvghuijng', expecting 'piercing'
+==> Stdout
+puttering
+
+==> Return code 0
+==> Fail
+
+==> Input: 'mnfdsasdfghjkloiugnnnnnnnbvdsasdbnbvcfgy', expecting 'malignancy'
+==> Stdout
+malignancy
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdrtyuiiiiuytfcvhtred', expecting 'stitched'
+==> Stdout
+stitched
+
+==> Return code 0
+==> Pass
+
+==> Input: 'asxcttred', expecting 'acted'
+==> Stdout
+acted
+
+==> Return code 0
+==> Pass
+
+==> Input: 'oiuytrdsdrtreres', expecting 'oysters'
+==> Stdout
+oysters
+
+==> Return code 0
+==> Pass
+
+==> Input: 'tresdrtrsasdfgbnmhgrefgbnht', expecting 'testament'
+==> Stdout
+testament
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cghuiokjnnnhgtresdrtrds', expecting 'contests'
+==> Stdout
+congress
+
+==> Return code 0
+==> Fail
+
+==> Input: 'ewaserrrthjkliuy', expecting 'earthly'
+==> Stdout
+earthly
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ijnbvcdsascvbhjiliuyty', expecting 'inability'
+==> Stdout
+inability
+
+==> Return code 0
+==> Pass
+
+==> Input: 'dfguiuytrsdrtreeeeeeeeeeesdtyuijnghjklkuy', expecting 'distressingly'
+==> Stdout
+distressingly
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bvdsasdbnbgfdsasdfguijng', expecting 'bandaging'
+==> Stdout
+bandaging
+
+==> Return code 0
+==> Pass
+
+==> Input: 'lkjhgfdsasdvbnbfdsdfghjkliuyfd', expecting 'landslid'
+==> Stdout
+landslid
+
+==> Return code 0
+==> Pass
+
+==> Input: 'trsasdfghjklkjhgfdsasrtyuiuhvfde', expecting 'talkative'
+==> Stdout
+talkative
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ujnnbvfdsssssssssssssssssssssssssssxcfrew', expecting 'unscrew'
+==> Stdout
+unscrew
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cfrewertyuijng', expecting 'crewing'
+==> Stdout
+crewing
+
+==> Return code 0
+==> Pass
+
+==> Input: 'hgfdsasdbnjkjhrers', expecting 'hankers'
+==> Stdout
+hankers
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuytreeeeserrrrrrfvvvvvvvvvvvvvvvvvvvvvvfes', expecting 'preserves'
+==> Stdout
+preserves
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bhuytrtyuijng', expecting 'burring'
+==> Stdout
+butting
+
+==> Return code 0
+==> Fail
+
+==> Input: 'bhuytds', expecting 'buss'
+==> Stdout
+butts
+
+==> Return code 0
+==> Fail
+
+==> Input: 'rerghjuygvferfghnbvfdsasrtyuiokjn', expecting 'rejuvenation'
+==> Stdout
+rejuvenation
+
+==> Return code 0
+==> Pass
+
+==> Input: 'mkiuyfdssssserertyuiopoiuytreeeeeeeeesefgbnhtyuijnbg', expecting 'misrepresenting'
+==> Stdout
+misrepresenting
+
+==> Return code 0
+==> Pass
+
+==> Input: 'resasdtyuijnbfds', expecting 'rains'
+==> Stdout
+resins
+
+==> Return code 0
+==> Fail
+
+==> Input: 'trsasdbnjkjrer', expecting 'tanker'
+==> Stdout
+trader
+
+==> Return code 0
+==> Fail
+
+==> Input: 'hgfdsaseresasdfbnmnhgrefgbnhgtrs', expecting 'harassments'
+==> Stdout
+harassments
+
+==> Return code 0
+==> Pass
+
+==> Input: 'edfvfertyuiokjnbgres', expecting 'everyones'
+==> Stdout
+everyones
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ggggbnbfdsasrthjklijng', expecting 'gnarling'
+==> Stdout
+gnashing
+
+==> Return code 0
+==> Fail
+
+==> Input: 'bhjioiuygfcguioiuyt', expecting 'boycott'
+==> Stdout
+boycott
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuklkjhgfdsed', expecting 'pulsed'
+==> Stdout
+pulsed
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ijntrefghnfdsdyuiuyty', expecting 'intensity'
+==> Stdout
+intensity
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ijnbfdfguioiuhgccftrtyuiijnbfdsasrtyuioijn', expecting 'indoctrination'
+==> Stdout
+indoctrination
+
+==> Return code 0
+==> Pass
+
+==> Input: 'rtyuhbhjiuytrer', expecting 'rubier'
+==> Stdout
+rubier
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cvbjklujmngfdsdfyuiutrer', expecting 'clumsier'
+==> Stdout
+clumsier
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ertyuiuythger', expecting 'either'
+==> Stdout
+either
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuytreserfvcsasrtyuiihvfde', expecting 'preservative'
+==> Stdout
+preservative
+
+==> Return code 0
+==> Pass
+
+==> Input: 'redcghuioihgvfrertyuijnbg', expecting 'recovering'
+==> Stdout
+recovering
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuytrefgbnhtyuiuydsasdfghjklkjhgfds', expecting 'potentials'
+==> Stdout
+potentials
+
+==> Return code 0
+==> Pass
+
+==> Input: 'fdsasdtyuiuytrer', expecting 'fairer'
+==> Stdout
+fattier
+
+==> Return code 0
+==> Fail
+
+==> Input: 'bvdsaerrrrrrgfe', expecting 'barge'
+==> Stdout
+barge
+
+==> Return code 0
+==> Pass
+
+==> Input: 'fghjkloiuytrews', expecting 'flows'
+==> Stdout
+floors
+
+==> Return code 0
+==> Fail
+
+==> Input: 'ijnbvcredtyuiliuyttytrs', expecting 'incredulitys'
+==> Stdout
+incredulitys
+
+==> Return code 0
+==> Pass
+
+==> Input: 'lkjytrewasdfgiopoiugfffrtyuioihg', expecting 'leapfrog'
+==> Stdout
+leapfrog
+
+==> Return code 0
+==> Pass
+
+==> Input: 'resdrtrtyuiugfcftyuioijnbfds', expecting 'restrictions'
+==> Stdout
+restrictions
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cvghioiuytrdfyuioijnbvds', expecting 'cordons'
+==> Stdout
+cordons
+
+==> Return code 0
+==> Pass
+
+==> Input: 'mjiuytrdsxccvghiokmnnbfdssssssssssssssdrttttrtyuytre', expecting 'misconstrue'
+==> Stdout
+misconstrue
+
+==> Return code 0
+==> Pass
+
+==> Input: 'drtyuioijhgvfde', expecting 'drove'
+==> Stdout
+drive
+
+==> Return code 0
+==> Fail
+
+==> Input: 'poiuydsasertrds', expecting 'parts'
+==> Stdout
+possess
+
+==> Return code 0
+==> Fail
+
+==> Input: 'oijhvfdertgbniught', expecting 'overnight'
+==> Stdout
+overnight
+
+==> Return code 0
+==> Pass
+
+==> Input: 'dertyuioiuytres', expecting 'detours'
+==> Stdout
+detours
+
+==> Return code 0
+==> Pass
+
+==> Input: 'trewertyuiuytreres', expecting 'twitters'
+==> Stdout
+twitters
+
+==> Return code 0
+==> Pass
+
+==> Input: 'niokjnbvfdsdrttrsasdfbnbfdsaserd', expecting 'nonstandard'
+==> Stdout
+nonstandard
+
+==> Return code 0
+==> Pass
+
+==> Input: 'dreses', expecting 'dresses'
+==> Stdout
+dresses
+
+==> Return code 0
+==> Pass
+
+==> Input: 'tyuytrthjkjtrertytds', expecting 'turkeys'
+==> Stdout
+turrets
+
+==> Return code 0
+==> Fail
+
+==> Input: 'poiuysasdfger', expecting 'pager'
+==> Stdout
+passer
+
+==> Return code 0
+==> Fail
+
+==> Input: 'asdfbnmklpoiuytrerrres', expecting 'amperes'
+==> Stdout
+admirers
+
+==> Return code 0
+==> Fail
+
+==> Input: 'ujnkopoiuytrsaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaasxcvbjkijng', expecting 'unpacking'
+==> Stdout
+unpacking
+
+==> Return code 0
+==> Pass
+
+==> Input: 'asdfghjioijn', expecting 'adjoin'
+==> Stdout
+adjoin
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bgrtyuiuyfdsdfghjkjhgfds', expecting 'brisks'
+==> Stdout
+brisks
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cfgyuilkuytrds', expecting 'cults'
+==> Stdout
+curds
+
+==> Return code 0
+==> Fail
+
+==> Input: 'hgrerhjklpoijng', expecting 'helping'
+==> Stdout
+heeling
+
+==> Return code 0
+==> Fail
+
+==> Input: 'wertyuiuythgrerthjklkjhgfd', expecting 'withheld'
+==> Stdout
+withheld
+
+==> Return code 0
+==> Pass
+
+==> Input: 'jiolkuytyuiijng', expecting 'jilting'
+==> Stdout
+jollying
+
+==> Return code 0
+==> Fail
+
+==> Input: 'lkjhgfdsasdfgh', expecting 'lash'
+==> Stdout
+lash
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sed', expecting 'seed'
+==> Stdout
+seed
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cghuiokjnjujnbvcftyuioknbds', expecting 'conjunctions'
+==> Stdout
+conjunctions
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfghgfdsasdfghjkloiuytrews', expecting 'shallows'
+==> Stdout
+shallows
+
+==> Return code 0
+==> Pass
+
+==> Input: 'trsasdfuiopoiuytred', expecting 'taped'
+==> Stdout
+tripped
+
+==> Return code 0
+==> Fail
+
+==> Input: 'bhjibklktre', expecting 'bible'
+==> Stdout
+bible
+
+==> Return code 0
+==> Pass
+
+==> Input: 'wertyuiolkjhgfds', expecting 'wools'
+==> Stdout
+weeks
+
+==> Return code 0
+==> Fail
+
+==> Input: 'tghiuytrsdrtrs', expecting 'thirsts'
+==> Stdout
+thirsts
+
+==> Return code 0
+==> Pass
+
+==> Input: 'huytrdssssssssssssssssssssssssssdrtyjklkjytres', expecting 'hustles'
+==> Stdout
+hurdles
+
+==> Return code 0
+==> Fail
+
+==> Input: 'ijnnnnbvcghuiuytrdsdtyuiokjn', expecting 'incision'
+==> Stdout
+incision
+
+==> Return code 0
+==> Pass
+
+==> Input: 'edxcghjiopoiuytresdftyuiokjnbfds', expecting 'expressions'
+==> Stdout
+expressions
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bvcsasdvbnbfdsasdvbnbdsas', expecting 'bananas'
+==> Stdout
+bananas
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bvcsasdfguiuytrer', expecting 'baggier'
+==> Stdout
+baggier
+
+==> Return code 0
+==> Pass
+
+==> Input: 'esxfguiopoiutredftyuiuytyuiokjnbvfds', expecting 'expeditions'
+==> Stdout
+expeditions
+
+==> Return code 0
+==> Pass
+
+==> Input: 'oiuytrdsastyuijnbvds', expecting 'ordains'
+==> Stdout
+ordains
+
+==> Return code 0
+==> Pass
+
+==> Input: 'wersasdfgnghjklkytres', expecting 'wrangles'
+==> Stdout
+wrangles
+
+==> Return code 0
+==> Pass
+
+==> Input: 'asxcdefbnhtrds', expecting 'accents'
+==> Stdout
+accents
+
+==> Return code 0
+==> Pass
+
+==> Input: 'rtyuiuyfdyuiigfcfgyuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuukloiuuytdsdfghjkliuy', expecting 'ridiculously'
+==> Stdout
+ridiculously
+
+==> Return code 0
+==> Pass
+
+==> Input: 'mnbgfdsasdfghjhtresdrty', expecting 'majesty'
+==> Stdout
+mastery
+
+==> Return code 0
+==> Fail
+
+==> Input: 'ijmkopoiuilkjhgfdsdyuiuhvvfderthjklkuy', expecting 'impulsively'
+==> Stdout
+impulsively
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cxsasdftyuiuytred', expecting 'caddied'
+==> Stdout
+caddied
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ujngfdeweresasdfyuiopoiuytred', expecting 'unwrapped'
+==> Stdout
+underrated
+
+==> Return code 0
+==> Fail
+
+==> Input: 'asdvbnbvdsasxcvghgtrrtyuiookjnjiuytrsdfgbnm', expecting 'anachronism'
+==> Stdout
+anachronism
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdrtyuilkngres', expecting 'stillness'
+==> Stdout
+stillness
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuytres', expecting 'puts'
+==> Stdout
+purees
+
+==> Return code 0
+==> Fail
+
+==> Input: 'cxsasdfgbnbvvvcdsased', expecting 'canvassed'
+==> Stdout
+canvassed
+
+==> Return code 0
+==> Pass
+
+==> Input: 'asdfghuiuytrsasrtre', expecting 'agitate'
+==> Stdout
+agitate
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuytrtyuioihgcdedftyuijnbg', expecting 'proceeding'
+==> Stdout
+proceeding
+
+==> Return code 0
+==> Pass
+
+==> Input: 'tyuioiuydsaasdrtred', expecting 'toasted'
+==> Stdout
+toasted
+
+==> Return code 0
+==> Pass
+
+==> Input: 'bhugf', expecting 'buff'
+==> Stdout
+buff
+
+==> Return code 0
+==> Pass
+
+==> Input: 'fgyujnbfdfyuijnhg', expecting 'funding'
+==> Stdout
+funding
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cvghuuugfcvhjkkjytred', expecting 'chucked'
+==> Stdout
+chucked
+
+==> Return code 0
+==> Pass
+
+==> Input: 'serttyujklkjtrerfgnmngfefgbnhgt', expecting 'settlement'
+==> Stdout
+settlement
+
+==> Return code 0
+==> Pass
+
+==> Input: 'lkjhgfdsaserrrrrtyyyyyhnbvcxs', expecting 'larynxs'
+==> Stdout
+larynxs
+
+==> Return code 0
+==> Pass
+
+==> Input: 'cvbjklooooooooooiuytthhhhhhhgfesdfghiopoijngfds', expecting 'clothespins'
+==> Stdout
+clothespins
+
+==> Return code 0
+==> Pass
+
+==> Input: 'hgfdsasertyuiop', expecting 'harp'
+==> Stdout
+hoop
+
+==> Return code 0
+==> Fail
+
+==> Input: 'cghuioijnbfdsdyuiuydsdrt', expecting 'consist'
+==> Stdout
+consist
+
+==> Return code 0
+==> Pass
+
+==> Input: 'dfyuiughnnnnnnnnnnnnnnnnnjiiiiiyttttttttttrsasdrtyuiuytres', expecting 'dignitaries'
+==> Stdout
+dignitaries
+
+==> Return code 0
+==> Pass
+
+==> Input: 'edxcvbjkliuyfded', expecting 'excluded'
+==> Stdout
+excluded
+
+==> Return code 0
+==> Pass
+
+==> Input: 'ikmklpoiuytrtyuioijhgvghuiuyfdsdftyuijnbg', expecting 'improvising'
+==> Stdout
+improvising
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdfghgfdsasxcvhjklkuytres', expecting 'shackles'
+==> Stdout
+shackles
+
+==> Return code 0
+==> Pass
+
+==> Input: 'sdrtyuiuhgcvhjkuy', expecting 'sticky'
+==> Stdout
+sticky
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poiuyfdsasdvbngtrty', expecting 'pantry'
+==> Stdout
+pastry
+
+==> Return code 0
+==> Fail
+
+==> Input: 'ujnbfdfyuytre', expecting 'undue'
+==> Stdout
+undue
+
+==> Return code 0
+==> Pass
+
+==> Input: 'dfguiokmkijnbfdsasdvbnbvcde', expecting 'dominance'
+==> Stdout
+dominance
+
+==> Return code 0
+==> Pass
+
+==> Input: 'poifdsesed', expecting 'possessed'
+==> Stdout
+possessed
+
+==> Return code 0
+==> Pass
+
+==> Input: 'thgre', expecting 'the'
+==> Stdout
+three
+
+==> Return code 0
+==> Fail
+
+==> Done!
+==> Errors: 0/250       Fails: 55/250       Passes: 195/250     Timeouts: 0/250     
+==> Took 17.525207996368408 seconds, 0.07010083198547364 per test
+==> Fails: {('hjioiuytre', 'hoe'), ('wertyuikl', 'well'), ('bhuytds', 'buss'), ('cghuiokjnnnhgtresdrtrds', 'contests'), ('trsasdbnjkjrer', 'tanker'), ('sdfghuiopoiuytrtyuijnhg', 'spring'), ('cxsasdertres', 'cadets'), ('tyuytrthjkjtrertytds', 'turkeys'), ('thgre', 'the'), ('sdcxsasdfghjkliuytresdrt', 'scaliest'), ('poiuyfdsasdvbngtrty', 'pantry'), ('poiuysasdfger', 'pager'), ('cvbhjkloiuyfds', 'clods'), ('mnbgfdsasdfghjhtresdrty', 'majesty'), ('drtyuioijhgvfde', 'drove'), ('poiuytrertyuytdsdfyuijng', 'perusing'), ('oiuytresaseres', 'oars'), ('hgfdsasertyuiop', 'harp'), ('sdfghjkkkkkkkkkkkkkkkkkkkjhgrertyuijnbfds', 'skeins'), ('liuytrewqwertyuuuuuuuioiuytrds', 'liquors'), ('hgrerhjklpoijng', 'helping'), ('sasdfghjklkjytres', 'sales'), ('fdsasdtyuiuytrer', 'fairer'), ('lkjhytrewasdfyuiopoiuytds', 'leaps'), ('bhujmngfds', 'bums'), ('resasdtyuijnbfds', 'rains'), ('asdfbnmklpoiuytrerrres', 'amperes'), ('fghjkloiuytrtyuijnbg', 'flouring'), ('poiuytrerfcvghuijng', 'piercing'), ('sdfghiolkjhgre', 'sole'), ('cfgyuilkuytrds', 'cults'), ('trsasdfuiopoiuytred', 'taped'), ('hjioiuytrghnbfds', 'horns'), ('resasdfghuiopoiuytfdsdrtrds', 'rapists'), ('sertyuiopoijnhg', 'seeping'), ('cvghgfdsasdrtrerfghngfred', 'chastened'), ('mnbfdsasdfghjklkjtrertrds', 'mallets'), ('asxcvghioiuyfdsdrtrs', 'accosts'), ('trdsasdfyuuuuuuuuuytrer', 'tauter'), ('opoiuytreresasrtyuiokjnbfds', 'operations'), ('cfrtyuiuytrdsdfgyuiopoijnhg', 'crisping'), ('poiuydsasertrds', 'parts'), ('bhuytrtyuijng', 'burring'), ('ggggbnbfdsasrthjklijng', 'gnarling'), ('swasrty', 'sway'), ('seasdvbnmnbfds', 'seams'), ('fghjkloiuytrews', 'flows'), ('poiuytres', 'puts'), ('waxcvbnjijnhg', 'waning'), ('jiolkuytyuiijng', 'jilting'), ('trefgbnhtrds', 'tents'), ('bvcdsasdfgbnbgfdsasdfgfre', 'bandage'), ('huytrdssssssssssssssssssssssssssdrtyjklkjytres', 'hustles'), ('wertyuiolkjhgfds', 'wools'), ('ujngfdeweresasdfyuiopoiuytred', 'unwrapped')}

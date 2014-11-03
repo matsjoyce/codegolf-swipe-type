@@ -8,8 +8,8 @@ else:
     mode = "w"
 
 words = open("wordlist").read().split("\n")
-with open("testlist2", mode) as tests:
-    for i in range(150):
+with open("testlist3", mode) as tests:
+    for i in range(100):
         word = random.choice(words)
         words.remove(word)
         swipe = input(word + ": ")
